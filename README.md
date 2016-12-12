@@ -2,6 +2,7 @@
 
 ## Hướng dẫn cài đặt:
 Chọn đúng phiên bản rồi Copy thư mục `tld_data` vào thư mục chính của Game.
+
 Vào Game chọn `OPTIONS` -> `DISPLAY`. Đổi `LANGUAGE` sang `Tiếng Việt` và `SUBTITLES` sang `Closed Captioning` hoặc `On`.
 
 ## Donate:
