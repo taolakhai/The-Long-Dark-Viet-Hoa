@@ -145,7 +145,7 @@ GAMEPLAY_ButtonBack,Back,,Quay lại
 GAMEPLAY_ButtonBeginCrafting,Begin Crafting,,Bắt đầu chế đồ
 GAMEPLAY_ButtonBoil,Boil,,Đun sôi
 GAMEPLAY_ButtonCook,Cook,,Nấu
-GAMEPLAY_ButtonForageWood,Forage Wood,,
+GAMEPLAY_ButtonForageWood,Forage Wood,,Tàn phá gỗ
 GAMEPLAY_ButtonMelt,Melt,,Làm tan
 GAMEPLAY_Cabinet,Cabinet,,Tủ
 GAMEPLAY_CabinetDoor,Cabinet Door,,Tủ cửa
@@ -464,9 +464,9 @@ GAMEPLAY_Fooditemhasnocalories,Food item has no calories,,Thức ăn không có 
 GAMEPLAY_FoodPoisoning,Food Poisoning,,Ngộ độc thực phẩm
 GAMEPLAY_FoodPoisoningDescription,"Something you ate has made you very sick. You will weaken until you treat it, it passes, or you die.",,"Ăn phải cái gì đó làm cho bạn bị bênh nặng. Sẽ yếu dần cho đến khi bạn xử lý được nó, hoặc là chết."
 GAMEPLAY_FoodPoisoningHasPassed,Food Poisoning Has Passed,,Qua khỏi ngộ độc thực phẩm
-GAMEPLAY_Forage,Forage,,
-GAMEPLAY_ForagingProgress,Foraging...,,
-GAMEPLAY_ForagingWillCost,Foraging will cost,followed by time and calories that will be spent,
+GAMEPLAY_Forage,Forage,,Tàn phá
+GAMEPLAY_ForagingProgress,Foraging...,,Đang tàn phá...
+GAMEPLAY_ForagingWillCost,Foraging will cost,followed by time and calories that will be spent,Tàn phá sẽ mất
 GAMEPLAY_Forcing,Forcing...,,
 GAMEPLAY_ForestryLookout,Forestry Lookout,,Chòi lâm nghiệp
 GAMEPLAY_Forward,Forward,,Tiến
@@ -487,7 +487,7 @@ GAMEPLAY_FullScreen,Full Screen,,Toàn màn hình
 GAMEPLAY_galUnits,gal,,gal
 GAMEPLAY_Gasoline,Gasoline,,Xăng dầu
 GAMEPLAY_German,Deutsch,Do not translate,Tiếng Đức
-GAMEPLAY_GloveBox,Glove Box,,
+GAMEPLAY_GloveBox,Glove Box,,Hộc táp lô
 GAMEPLAY_GranolaBar,Granola Bar,,Bánh Granola
 GAMEPLAY_GranolaBarDescription,Dry and crunchy.,,Khô và giòn.
 GAMEPLAY_GrapeSoda,Stacy's Grape Soda,,Nước nho Stacy có ga
@@ -657,8 +657,8 @@ GAMEPLAY_MapNotAvailable,"(Not Available In Alpha)
 A simple map that shows obvious known landmarks. 
 It will be updated with Knowledge as you 
 explore the world.",,
-GAMEPLAY_MarinersPeaCoat,Mariner's Pea Coat,,
-GAMEPLAY_MarinersPeaCoatDescription,"Heavy wool coat, of the sort traditionally worn by sailors and fishermen.",,
+GAMEPLAY_MarinersPeaCoat,Mariner's Pea Coat,,Áo khoác Pea Coat
+GAMEPLAY_MarinersPeaCoatDescription,"Heavy wool coat, of the sort traditionally worn by sailors and fishermen.",,"Áo khoác năng, là truyền thống sử dụng của các thủy thủ và ngư dân."
 GAMEPLAY_Match,Match,,Que điêm
 GAMEPLAY_Matches,Matches,,Que điêm
 GAMEPLAY_MaxsLastStand,Max's Last Stand,,Chốt chặn của Max
@@ -709,8 +709,8 @@ GAMEPLAY_Noflaresininventory,No flares or torches in inventory,,Không có pháo
 GAMEPLAY_Nofuelinlantern,No fuel in lantern,,Không có nhiên liệu trong lồng đèn
 GAMEPLAY_NoKeroseneavailable,No Lamp Oil available,,Không có dầu hỏa trong ba lô
 GAMEPLAY_Nolampsininventory,No lamps in inventory,,Không có đèn trong ba lô
-GAMEPLAY_Nomorereclaimedwoodcanbeforaged,No more reclaimed wood can be foraged,,
-GAMEPLAY_Nomoretindercanbeforaged,No more tinder can be foraged,,
+GAMEPLAY_Nomorereclaimedwoodcanbeforaged,No more reclaimed wood can be foraged,,Không có thêm gỗ hoang để tàn phá
+GAMEPLAY_Nomoretindercanbeforaged,No more tinder can be foraged,,Không có thêm đồ bắt lửa để tàn phá
 GAMEPLAY_None,None,,không
 GAMEPLAY_NonPotableWaterSource,Non Potable Water Source,,Nguồn nước không uống được
 GAMEPLAY_NonPotableWaterSupply,Non Potable Water Supply,,Tiếp tế nước không uống được
@@ -737,15 +737,15 @@ GAMEPLAY_Nowatertodrop,No water to drop,,Không có nước để vứt
 GAMEPLAY_Nowatertotake,No water to take,,Không có nước để lấy
 GAMEPLAY_Nowatertotransfer,No water to transfer,,Không có nước để chuyển
 GAMEPLAY_NumAddedInventory,{item-name} ({num-value}) added to inventory,,{item-name} ({num-value}) đã được thêm vào kho đồ
-GAMEPLAY_NumRoundsReturned,{num-value} rounds returned to inventory,,
+GAMEPLAY_NumRoundsReturned,{num-value} rounds returned to inventory,,{num-value} viên đạn đã trở lại kho đồ
 GAMEPLAY_of,of,"as in ""1 of 3""",của
 GAMEPLAY_Off,Off,,Tắt
 GAMEPLAY_OldManDavisKnowledge,Old Man Davis,,
 GAMEPLAY_OldManDavisKnowledgeDescription,"Armed and paranoid, but a good man.",,
-GAMEPLAY_OldMansBeard,Old Man's Beard Lichen,,
-GAMEPLAY_OldMansBeardDescription,A lichen found in the ancient forests of the Pacific Northwest.,,
-GAMEPLAY_OldMansBeardDressing,Old Man's Beard Wound Dressing,,
-GAMEPLAY_OldMansBeardDressingDescription,A dressing utilizing Old Man's Beard lichen. Apply to wounds to help prevent infection.,,
+GAMEPLAY_OldMansBeard,Old Man's Beard Lichen,,Nấm địa y Usnea
+GAMEPLAY_OldMansBeardDescription,A lichen found in the ancient forests of the Pacific Northwest.,,Một địa y được tìm thấy ở khu rừng cổ ở vùng Tây Bắc.
+GAMEPLAY_OldMansBeardDressing,Old Man's Beard Wound Dressing,,Băng gạc nấm địa y Usnea
+GAMEPLAY_OldMansBeardDressingDescription,A dressing utilizing Old Man's Beard lichen. Apply to wounds to help prevent infection.,,Băng gạc sử dụng thêm nấm Usnea. Giúp ngăn các vết thương bị nhiễm trùng.
 GAMEPLAY_On,On,,Bật
 GAMEPLAY_Open,Open,,Mở
 GAMEPLAY_OpenCan,Open Can,,Mở đồ hộp
@@ -756,7 +756,7 @@ GAMEPLAY_Or,Or,,Hoặc
 GAMEPLAY_OrangeSoda,Orange Soda,,Nước cam có ga
 GAMEPLAY_OrangeSodaDescription,Sweet carbonated drink. Full of high-fructose corn syrup.,,Chai nước ngọt có ga. Nhiều Sirô bắp phân tử.
 GAMEPLAY_Oven,Oven,,Lò hấp bánh
-GAMEPLAY_Overloaded,Overloaded,,
+GAMEPLAY_Overloaded,Overloaded,,Quá tải
 GAMEPLAY_ozUnits,oz,,oz
 GAMEPLAY_Painkillers,Painkillers,,Thuốc giảm đau
 GAMEPLAY_PainkillersDescription,A bottle of Painkillers. Take it to reduce pain from injuries.,,Một chai thuốc giảm đau. Giúp vết thương giảm đau.
@@ -771,11 +771,11 @@ GAMEPLAY_Pelt,Fresh Rabbit Pelt,,Da thỏ tươi
 GAMEPLAY_PeltDescription,Freshly harvested rabbit pelt.,,Da tươi lấy được từ một con thỏ
 GAMEPLAY_Pelts,Pelts,,Da
 GAMEPLAY_PickUp,Pick Up,,Nhặt lên
-GAMEPLAY_Piece,Piece,,
-GAMEPLAY_Pieces,Pieces,,
+GAMEPLAY_Piece,Piece,,Miếng
+GAMEPLAY_Pieces,Pieces,,Miếng
 GAMEPLAY_Pilgrim,Pilgrim,,Kẻ lang thang
-GAMEPLAY_Pill,Pill,,
-GAMEPLAY_Pills,Pills,,
+GAMEPLAY_Pill,Pill,,Viên thuốc
+GAMEPLAY_Pills,Pills,,Viên thuốc
 GAMEPLAY_PinnaclePeaches,Pinnacle Peaches,,Túi đào
 GAMEPLAY_PinnaclePeachesDescription,"High quality peaches, halved.",,Những quả đào chất lượng cao.
 GAMEPLAY_Place,Place,,Đặt
@@ -795,8 +795,8 @@ GAMEPLAY_PressAnyKeyToContinue,Press Any Key To Continue,,Nhấn phím bất k�
 GAMEPLAY_PrevDay,Prev Day,,Ngày trước
 GAMEPLAY_Prybar,Prybar,,Cây prybar
 GAMEPLAY_PrybarDescription,A beat up prybar. Useful for opening locked containers.,,"Một cây prybar dùng để mở hộp, tủ đã khóa."
-GAMEPLAY_PurifyingWater,Purifying Water...,,
-GAMEPLAY_PutBack,Put Back,,
+GAMEPLAY_PurifyingWater,Purifying Water...,,Đang lọc nước
+GAMEPLAY_PutBack,Put Back,,Đặt lại chỗ cũ
 GAMEPLAY_Quality,Quality,,Chất lượng
 GAMEPLAY_QualityTools,Quality Tools,,Hộp công cụ chất lượng cao
 GAMEPLAY_QualityToolsDescription,Good quality tools for crafting and repair.,,Hộp công cụ chất lượng cao dùng để chế và sửa đồ.
@@ -923,10 +923,10 @@ GAMEPLAY_RoseHipDescription,The fruit of a wild rose bush.,,Quả của một b�
 GAMEPLAY_RoseHips,Rose Hips,,Quả tầm xuân
 GAMEPLAY_RoseHipTea,Rose Hip Tea,,Trà tầm xuân
 GAMEPLAY_RoseHipTeaDescription,"Rose hips have long been used as an anti-inflamatory and this tea makes for an effective, natural pain-killer.",,Quả tầm xuân đã từ lâu được sử dụng như một chất chống sưng viêm và khá hiệu quả trong viện giảm đau.
-GAMEPLAY_Round,Round,,
-GAMEPLAY_Rounds,Rounds,,
-GAMEPLAY_Ruined,{item-name} ruined.,,
-GAMEPLAY_RuinedPostfix,(Ruined),,
+GAMEPLAY_Round,Round,,Viên đạn
+GAMEPLAY_Rounds,Rounds,,Viên đạn
+GAMEPLAY_Ruined,{item-name} ruined.,,{item-name} đã hỏng.
+GAMEPLAY_RuinedPostfix,(Ruined),,(Đã hỏng)
 GAMEPLAY_Run,Run,,Chạy
 GAMEPLAY_RunMethod,Run Method,,Phương pháp chạy
 GAMEPLAY_RuralBurnedFarmCabins,Lonely Homestead,Two small burned out cabins in the forest.,Trại cô đơn
@@ -1017,9 +1017,9 @@ GAMEPLAY_SouthWest,South West,,Tây Nam
 GAMEPLAY_Spacebar,Space,,
 GAMEPLAY_Spend,Spend,"as in ""spend X hours"" doing something",
 GAMEPLAY_SprainedAnkle,Sprained Ankle,,Trật mắt cá chân
-GAMEPLAY_SprainedAnkleDescription,"You have twisted your ankle and are now suffering a sprain. Your mobility will be reduced until you treat it, or it heals over time.",,
+GAMEPLAY_SprainedAnkleDescription,"You have twisted your ankle and are now suffering a sprain. Your mobility will be reduced until you treat it, or it heals over time.",,Trợt khớp mắt cá chân và giờ nó sưng lên. Độ linh hoạt của bạn bị giảm đến khi nó được chữa trị hoặc tự lành theo thời gian.
 GAMEPLAY_SprainedAnkleHealed,Sprained Ankle Healed,,Đã lành trật mắt cá chân
-GAMEPLAY_SprainedAnkleHUD,Suffered sprained ankle,,
+GAMEPLAY_SprainedAnkleHUD,Suffered sprained ankle,,Bị trật mắt cá chân
 GAMEPLAY_SprainedAnkleLog,Sprained ankle.,,Trật mắt cá chân
 GAMEPLAY_Stalker,Stalker,,Người hiên ngang
 GAMEPLAY_Start,Start,,Bắt đầu
@@ -1054,11 +1054,11 @@ GAMEPLAY_Survivor,Survivor,,Người sống sót
 GAMEPLAY_SymptomConditionDrain,Condition Drain,,
 GAMEPLAY_SymptomDehydration,Dehydration,,Mất nước
 GAMEPLAY_SymptomFatigue,Fatigue,,Mệt mỏi
-GAMEPLAY_SymptomMaxConditionReduced,Reduced Condition Threshold,,
-GAMEPLAY_SymptomMobilityReduced,Reduced Mobility,,
+GAMEPLAY_SymptomMaxConditionReduced,Reduced Condition Threshold,,Giảm ngưỡng thể trạng
+GAMEPLAY_SymptomMobilityReduced,Reduced Mobility,,Giảm tính linh hoạt
 GAMEPLAY_Table,Table,,Bàn
-GAMEPLAY_Tablet,Tablet,,
-GAMEPLAY_Tablets,Tablets,,
+GAMEPLAY_Tablet,Tablet,,Viên nén
+GAMEPLAY_Tablets,Tablets,,Viên nén
 GAMEPLAY_Take,Take,,Lấy
 GAMEPLAY_TakeAll,Take All,,Lấy tất cả
 GAMEPLAY_TakeAntibiotics,Take Antibiotics,,Lấy thuốc kháng sinh
@@ -1110,8 +1110,8 @@ GAMEPLAY_TravelToMine,Travel to Abandoned Mine,,Đến Mỏ Than Bỏ Hoang
 GAMEPLAY_TraveltoMysteryLake,Travel to Mystery Lake,,Đến Hồ Bí Ẩn
 GAMEPLAY_TraveltoPleasantValley,Travel to Pleasant Valley,on-screen text for when the player is about to travel to the Pleasant Valley region from another region,Đến Thung Lũng Thú Vị
 GAMEPLAY_TraveltoRavine,Travel to Ravine,,Đến Khe Núi
-GAMEPLAY_Treatment,Treatment,,
-GAMEPLAY_Trunk,Trunk,,
+GAMEPLAY_Treatment,Treatment,,Điều trị
+GAMEPLAY_Trunk,Trunk,,Cốp xe
 GAMEPLAY_Tumbler1,Tumbler 1,,Nấc khóa 1
 GAMEPLAY_Tumbler2,Tumbler 2,,Nấc khóa 2
 GAMEPLAY_Tumbler3,Tumbler 3,,Nấc khóa 3
@@ -1121,8 +1121,8 @@ GAMEPLAY_TunnelCollapse,Tunnel Collapse,,Hầm sụp đổ
 GAMEPLAY_Twilight,Twilight,"as in ""twilight hours""",Chạng vạng
 GAMEPLAY_TypeHeader,Type:,,Loại:
 GAMEPLAY_Ultra,Ultra,,Cực cao
-GAMEPLAY_UnableToForage,You were unable to forage any usable wood,,
-GAMEPLAY_Unarmed,Unarmed,,
+GAMEPLAY_UnableToForage,You were unable to forage any usable wood,,Ở đây không thể tàn phá bất kỳ loại gỗ nào
+GAMEPLAY_Unarmed,Unarmed,,Không có vũ trang
 GAMEPLAY_Unequip,Unequip,,Bỏ trang bị
 GAMEPLAY_units,units,,
 GAMEPLAY_UnitsOfMeasurement,Units,,Đo lường
@@ -1135,7 +1135,7 @@ GAMEPLAY_Use,Use,,Sử dụng
 GAMEPLAY_USE,USE,,SỬ DỤNG
 GAMEPLAY_UseCanOpener,Use Can Opener,,Sử dụng mở đồ hộp
 GAMEPLAY_UseFire,Fire,,
-GAMEPLAY_UseFireStriker,Firestriker,,
+GAMEPLAY_UseFireStriker,Firestriker,,Đánh lửa
 GAMEPLAY_UseFlintAndSteel,Flint,,Đá lửa
 GAMEPLAY_UseHatchet,Use Hatchet,,Sử dụng rìu nhỏ
 GAMEPLAY_UseKnife,Use Knife,,Sử dụng dao
@@ -1219,32 +1219,32 @@ GAMEPLAY_Youarenotthirsty,You are not thirsty,,Bạn không khát
 GAMEPLAY_YouAreNotTired,You are not tired enough,,Bạn không đủ mệt
 GAMEPLAY_Youaretoofulltoeat,You are too full to eat,,Bạn quá no để ăn
 GAMEPLAY_YouFeelRested,You feel rested,,Bạn cảm thấy đã được nghỉ ngơi
-GAMEPLAY_YouForaged,You foraged,,
+GAMEPLAY_YouForaged,You foraged,,Đã tàn phá
 GAMEPLAY_Youhavenoafflictions,You have no afflictions,,Bạn không có bệnh nào
 GAMEPLAY_Youhavesurvived,You have survived,,Bạn đã sóng sốt
 GAMEPLAY_Youhavesurvivedfor,You have survived for:,,
 GAMEPLAY_Yousurvivedfor,You survived for,,
 GAMEPLAY_ZeroHourMinute,0h 0m,,0h 0m
 GAMEPLAY_ZeroTime,0m,,0m
-SCENENAME_Barn,Barn,,
-SCENENAME_Basement,Basement,,
+SCENENAME_Barn,Barn,,Chuồng gia súc
+SCENENAME_Basement,Basement,,Tầng hầm
 SCENENAME_Cabin,Cabin,,Nhà gỗ
 SCENENAME_CampOffice,Camp Office,,Trại Văn Phòng
 SCENENAME_CarterHydroDam,Upper Dam,,Phía trên đập
 SCENENAME_Cave,Cave,a cave you can enter,Hang động
 SCENENAME_CoastalHighway,Coastal Highway,,Quốc Lộ Ven Biển
 SCENENAME_CoastalHouse,Coastal House,,Nhà Ven Biển
-SCENENAME_FarmHouse,Farmhouse,,
-SCENENAME_FarmHouseBasement,Farmhouse Basement,,
+SCENENAME_FarmHouse,Farmhouse,,Nhà trang trại
+SCENENAME_FarmHouseBasement,Farmhouse Basement,,Hầm nhà trang trại
 SCENENAME_FishingCabin,Fishing Cabin,,Nhà gỗ câu cá
 SCENENAME_Mine,Abandoned Mine,,Mỏ Than Bỏ Hoang
 SCENENAME_MysteryLake,Mystery Lake,,Hồ Bí Ẩn
 SCENENAME_PrepperCache,Prepper Cache,,Hầm Prepper
 SCENENAME_QuonsetGasStation,Quonset Garage,,Gara Quonset
-SCENENAME_RadioControlHut,Radio Control Hut,,
+SCENENAME_RadioControlHut,Radio Control Hut,,Trạm phát Radio
 SCENENAME_Ravine,Ravine,,Khu suối
 SCENENAME_RuralRegion,Pleasant Valley,location name,Thung Lũng Thú Vị
-SCENENAME_RuralStore,Rural Store,,
+SCENENAME_RuralStore,Rural Store,,Nhà kho Rural
 SCENENAME_TheOutdoors,The Outdoors,,Ngoài trời
 SCENENAME_Trailer,Trailer,,Toa xe
 SCENENAME_TrappersHomestead,Trapper's Cabin,,Nhà gỗ của người đặt bẫy
@@ -1566,7 +1566,7 @@ SUBTITLE_FemaleConditionVeryHungry10,"Arrgh, I'm starving.",,
 SUBTITLE_FemaleConditionVeryHungry2,I've never been so hungry in my life.,,
 SUBTITLE_FemaleConditionVeryHungry3,Can you eat trees?,,
 SUBTITLE_FemaleConditionVeryHungry4,All I can think about is food.,,
-SUBTITLE_FemaleConditionVeryHungry5,I need to find food.,,Mình cần tìm thức ăn
+SUBTITLE_FemaleConditionVeryHungry5,I need to find food.,,Mình cần tìm thức ăn sớm.
 SUBTITLE_FemaleConditionVeryHungry6,I'm going to need to eat soon.,,
 SUBTITLE_FemaleConditionVeryHungry7,I could eat anything.,,Mình có thể ăn bất cứ thứ gì.
 SUBTITLE_FemaleConditionVeryHungry8,I could eat a horse.,,Mình có thể ăn một con ngựa.
@@ -1730,7 +1730,7 @@ SUBTITLE_TODNight1,Feels like night is coming.,,Cảm giác như màn đêm đan
 SUBTITLE_TODNight2,It's dusk so night can't be far behind.,,
 SUBTITLE_TODNight3,It's getting dark out here. Time to look for shelter.,,Ở đây bắt đầu tối rồi. Cần phải tìm chỗ nương thân ngay.
 SUBTITLE_TODNight4,The sun is setting. It's going to get a lot colder soon.,,Mặt trời đang lặn. Sẽ phải chuẩn bị đón cái giá rét đây.
-GAMEPLAY_CattailPlantDescription,"The Cat Tail's head can be used as tinder. Its stalk is tough, not very filling, but edible...!",,
+GAMEPLAY_CattailPlantDescription,"The Cat Tail's head can be used as tinder. Its stalk is tough, not very filling, but edible...!",,"Ngọn cỏ đuôi mèo có thể sử dụng như vật bắt lửa. Thân cỏ thì dai, ăn được nhưng không no...!"
 GAMEPLAY_TakeIt,Take It,,Lấy nó
 GAMEPLAY_LeaveIt,Leave It,,Bỏ
 GAMEPLAY_EquipIt,Equip It,,Trang bị nó
@@ -1771,7 +1771,7 @@ GAMEPLAY_ArrowHead,Arrowhead,,Đầu mũi tên
 GAMEPLAY_ArrowHeads,Arrowheads,,Đầu mũi tên
 GAMEPLAY_ArrowHeadDescription,"Sharp metal tip for an Arrow, improvised from scrap.",,"Đầu mũi tên kim loại nhọn, tận dụng từ phế liệu."
 GAMEPLAY_CuredPostfix,({%-value}% Cured),cured as in dried,({%-value}% phơi khô)
-GAMEPLAY_TimeUntilDryInventory,Can be used for crafting and repair after air-drying indoors for {time-value}.,,
+GAMEPLAY_TimeUntilDryInventory,Can be used for crafting and repair after air-drying indoors for {time-value}.,,Có thể sử dụng để chế và sửa đồ sau khi hong khô trong nhà {time-value}.
 GAMEPLAY_BearHideDried,Cured Black Bear Hide,cured as in dried,Da gấu đen phơi khô
 GAMEPLAY_BearHideDriedDescription,Fur and skin of a Black bear. Can be used for crafting and repair.,,Lông và da từ một con gấu đen. Có thể sử dụng để chế và sửa đồ.
 GAMEPLAY_LeatherDried,Cured Leather,cured as in dried,Da khô
@@ -1796,10 +1796,10 @@ GAMEPLAY_Unload,Unload,as in: unload ammo from a gun,
 GAMEPLAY_GunDescEmpty,The gun is not currently loaded.,,Súng chưa được nạp đạn.
 GAMEPLAY_GunDescLoadedRound,The gun has {num-rounds} round loaded.,,Súng đã được nạp {num-rounds} viên đạn.
 GAMEPLAY_GunDescLoadedRounds,The gun has {num-rounds} rounds loaded.,,Súng đã được nạp {num-rounds} viên đạn.
-GAMEPLAY_PillsRequiredValue,Dosage is {num-pills} pills,,
+GAMEPLAY_PillsRequiredValue,Dosage is {num-pills} pills,,Liều lượng là {num-pills} viên thuốc
 GAMEPLAY_ButtonActions,Actions,,Hành động
 GAMEPLAY_ButtonCraft,Craft,,Chế đồ
-GAMEPLAY_ButtonCycleTool,Cycle Tool,,
+GAMEPLAY_ButtonCycleTool,Cycle Tool,,Vòng công cụ
 GAMEPLAY_ButtonSort,Sort,,Sắp xếp
 GAMEPLAY_Examine,Examine,,Xem xét
 GAMEPLAY_HarvestingWillCost,Harvesting Will Cost,,Thu hoạch sẽ mất
@@ -1816,16 +1816,16 @@ GAMEPLAY_Controller_Run,Run (RB),,Chạy (RB)
 GAMEPLAY_Controller_Crouch,Crouch (Click RS),,Cúi mình (Nhấn RS)
 GAMEPLAY_Controller_MoveCharacter,Move Character,,Di chuyển nhân vật
 GAMEPLAY_Controller_MoveCamera,Move Camera,,Di chuyển Camera
-GAMEPLAY_Controller_CycleLightSources,Cycle Light Sources,,
-GAMEPLAY_Controller_LightMatch,Light Match,,
-GAMEPLAY_Controller_CycleWeapons,Cycle Weapons,,
+GAMEPLAY_Controller_CycleLightSources,Cycle Light Sources,,Vòng nguồn ánh sáng
+GAMEPLAY_Controller_LightMatch,Light Match,,Diêm cháy
+GAMEPLAY_Controller_CycleWeapons,Cycle Weapons,,Vòng vũ khí
 GAMEPLAY_PressAnyKeyToContinueMouse,Press Any Key To Continue,,Nhấn phím bất kỳ để tiếp tục
 GAMEPLAY_PressAnyKeyToContinueController,Press Any Button To Continue,,Nhấn phím bất kỳ để tiếp tục
 GAMEPLAY_PressAnyKeyToContinueConsole,Press Any Button To Continue,,Nhấn phím bất kỳ để tiếp tục
 GAMEPLAY_CameraSensitivity,Camera Sensitivity,,Độ nhạy Camera
 GAMEPLAY_NoTool,No Tool,,Không có công cụ
 GAMEPLAY_NonPotable,Non Potable,,Không uống được
-GAMEPLAY_LitFlare,Lit Flare,,
+GAMEPLAY_LitFlare,Lit Flare,,Pháo sáng đã cháy
 GAMEPLAY_ToolRequiredToBreakIce,Tool Required To Break Ice,,Công cụ yêu cầu để phá băng
 GAMEPLAY_Status,Status,,Trạng thái
 GAMEPLAY_PurifyWater,Purify Water,,Lọc nước
@@ -1842,9 +1842,9 @@ Còn đây có thể là dòng chữ thứ hai"
 LINETEST_CTRENTER,"This is on the first line
 This should be on the second line",,"Đây là dòng chữ thứ nhất
 Còn đây có thể là dòng chữ thứ hai"
-GAMEPLAY_LitFlareNoStore,A lit flare cannot be stored,,
+GAMEPLAY_LitFlareNoStore,A lit flare cannot be stored,,Pháo sáng đã cháy không thể cất
 GAMEPLAY_AnyFeedback,"For feedback and help, visit[FFFF00] www.hinterlandforums.com[-]",,Mọi chi tiết xin liên hệ [FFFF00]FB.COM/XKVNN[-]
-SCENENAME_WhalingShip,Whaling Ship,"Rusted, old, whaling ship",Tàu đánh cá voi
+SCENENAME_WhalingShip,Whaling Ship,"Rusted, old, whaling ship",Tàu bắt cá voi
 GAMEPLAY_Ship,Ship,Ship you can enter,
 GAMEPLAY_NoItemsOfTypeInventory,No items of this type in Inventory,,Không có đồ vật nào thuộc loại này
 GAMEPLAY_NoItemsOfTypeContainer,No items of this type in Container,,Không có đồ vật nào thuộc loại này
@@ -1879,12 +1879,12 @@ GAMEPLAY_shelf,Shelf,wooden shelf,Kệ tủ
 GAMEPLAY_pillow,Pillow,,Gối
 GAMEPLAY_branch,Branch,"branch, fallen from a tree, small - can be broken by hand",Cành cây
 GAMEPLAY_Light,Light,as in light a lantern or flare,Chiếu sáng
-GAMEPLAY_Throw,Throw,action,
+GAMEPLAY_Throw,Throw,action,Ném
 GAMEPLAY_Extinguish,Extinguish,action,Dập tắt
 GAMEPLAY_FireWeapon,Fire,as in fire a weapon,Bắn
 GAMEPLAY_Aim,Aim,action,Ngắm
 GAMEPLAY_DrawBow,Draw,as in draw a bowstring,
-GAMEPLAY_RelaxBow,Relax,as in relax a bowstring without firing an arrow,
+GAMEPLAY_RelaxBow,Relax,as in relax a bowstring without firing an arrow,Thư giãn
 GAMEPLAY_Brandish,Brandish,to swing weapon wildly,Múa
 GAMEPLAY_Curtain,Curtain,single curtain/drape window covering,Rèm cửa
 GAMEPLAY_Towel,Towel,hand towel,Khăn lau
@@ -1899,9 +1899,9 @@ GAMEPLAY_BarkTinderDescription,"Birch tree bark. Lightweight and flamable, this 
 GAMEPLAY_Stick,Stick,"small stick, fallen from a tree",Que củi
 GAMEPLAY_Sticks,Sticks,,Que củi
 GAMEPLAY_StickDescription,"Small stick, will burn, but not for long",,"Que củi nhỏ, sẽ cháy nhưng không được lâu."
-GAMEPLAY_Pallet,Pallet,"single wooden, large pallet",
-GAMEPLAY_Pallets,Pallets,"pile of large, wooden pallets",
-GAMEPLAY_Planks,Planks,pile of wooden planks,
+GAMEPLAY_Pallet,Pallet,"single wooden, large pallet",Khung tải hàng
+GAMEPLAY_Pallets,Pallets,"pile of large, wooden pallets",Khung tải hàng
+GAMEPLAY_Planks,Planks,pile of wooden planks,Tấm ván
 GAMEPLAY_BranchBigSoft,Cedar Limb,"A large fallen cedar tree branch, needs a hatchet to break it up",Cành cây thông
 GAMEPLAY_Affliction,Affliction,,Bệnh tật
 GAMEPLAY_Torn,Torn,,Viết rách
@@ -1926,22 +1926,22 @@ GAMEPLAY_TreatWounds,Treat Wounds,,Chữa trị vết thương
 GAMEPLAY_Fall,Fall,"noun, you had a fall (fell down)",Rơi
 GAMEPLAY_WolfBite,Wolf Bite,,Sói cắn
 GAMEPLAY_BearBite,Bear Bite,,Gấu cắn
-GAMEPLAY_ContractedHypothermiaHUD,Contracted hypothermia,,
-GAMEPLAY_ContractedHypothermiaLog,Contracted hypothermia.,,
+GAMEPLAY_ContractedHypothermiaHUD,Contracted hypothermia,,Đã giảm hạ thân nhiệt
+GAMEPLAY_ContractedHypothermiaLog,Contracted hypothermia.,,Đã giảm hạ thân nhiệt
 GAMEPLAY_HypothermiaHasPassed,Hypothermia has passed,,Lành bệnh hạ thân nhiệt
 GAMEPLAY_ColdWeather,Cold Weather,,Thời tiêt lạnh
 GAMEPLAY_FellThroughIce,Fell Through Ice,,
 GAMEPLAY_Hypothermia,Hypothermia,,Hạ thân nhiệt
-GAMEPLAY_OldBedroll,Old Bedroll,"old, worn out bedroll (not one the player would ever use)",
+GAMEPLAY_OldBedroll,Old Bedroll,"old, worn out bedroll (not one the player would ever use)",Túi ngủ cũ
 GAMEPLAY_RequiresToolToBreakDown,Requires {tool-name} to break down,,Yêu cầu {tool-name} để đập vỡ
 GAMEPLAY_BranchBigHard,Fir Limb,"A large fallen fir tree branch, needs a hatchet to break it up",Cành cây linh sam
-GAMEPLAY_DontHaveTreatment,You do not have the required first aid supplies,,
-GAMEPLAY_ImprovedRest,Improved Rest,,
-GAMEPLAY_WarmingUp,Warming Up,,
-GAMEPLAY_FatigueReduced,Fatigue Reduced,,
+GAMEPLAY_DontHaveTreatment,You do not have the required first aid supplies,,Không có đồ sơ cứu cần thiết
+GAMEPLAY_ImprovedRest,Improved Rest,,cải thiện nghỉ ngơi
+GAMEPLAY_WarmingUp,Warming Up,,Làm ấm lên
+GAMEPLAY_FatigueReduced,Fatigue Reduced,,Giảm mệt mỏi
 GAMEPLAY_HotFoodDrink,Hot Food/Drink,,Thức ăn/Đồ uống nóng
-GAMEPLAY_UserChanged,The signed in user has changed.,,
-GAMEPLAY_ActiveControllerDisconnected,The active controller is no longer connected. Please press a button to continue playing.,,
+GAMEPLAY_UserChanged,The signed in user has changed.,,Đăng nhập người dùng đã thay đổi.
+GAMEPLAY_ActiveControllerDisconnected,The active controller is no longer connected. Please press a button to continue playing.,,Controller không còn được kết nối. Nhấn phím để tiếp tục chơi.
 GAMEPLAY_RandomRegion,Random,,Ngẫu nhiên
 SCENENAME_DamRiver,Winding River,River area leading to carter Dam,Sông uốn lượn
 GAMEPLAY_HypothermiaDescription,Your body temperature was too low for too long. You will weaken until you stay above freezing for 24 hours.,,
@@ -1951,7 +1951,7 @@ GAMEPLAY_HacksawDescription,Heavy-duty saw made to cut through metal.,,Cưa dùn
 GAMEPLAY_MetalShelf,Metal Shelf,,Kệ kim loại
 GAMEPLAY_NewGame,New Game,,Game mowis
 GAMEPLAY_MetalTable,Metal Table,,Bàn kim loại
-GAMEPLAY_MetalLamp,Metal Lamp,lamp made from metal,
+GAMEPLAY_MetalLamp,Metal Lamp,lamp made from metal,Đèn kim loại
 GAMEPLAY_BrokenMetalLightFitting,Broken Metal Light Fixture,discarded metal light fitting,Khung đèn kim loại hỏng
 GAMEPLAY_LightFog,Light Fog,weather condition,Sương mù nhẹ
 GAMEPLAY_BrokenMetalDoor,Broken Metal Door,"A door panel broken off, seperate from door way",Cửa sắt hỏng
@@ -1973,8 +1973,8 @@ GAMEPLAY_OverwriteSaveSlotMessage,Are you sure you want to overwrite the selecte
 GAMEPLAY_New,New,,Mới
 GAMEPLAY_Resume,Resume,,Tiếp tục
 GAMEPLAY_ReduceHunger,Reduce Hunger,,Giảm đói
-SCENENAME_HighwayTransition,Crumbling Highway,"Highway that goes from Coastal to Whaling Station regions, passes through a burned forest",
-GAMEPLAY_TraveltoBurnedHighway,Travel to Crumbling Highway,,
+SCENENAME_HighwayTransition,Crumbling Highway,"Highway that goes from Coastal to Whaling Station regions, passes through a burned forest",Quốc Lộ Sạt Lở
+GAMEPLAY_TraveltoBurnedHighway,Travel to Crumbling Highway,,Đến Quốc Lộ Sạt Lở
 GAMEPLAY_WhaleCorner,Katie's Secluded Corner,"Small, secluded, cliff surrounded corner, not on the main path. There's the remains of someone having camped here",Góc hẻo lánh của Katie
 GAMEPLAY_Coal,Coal,,Than
 GAMEPLAY_CoalDescription,Lump of Coal,,Cục than đá
@@ -1988,7 +1988,7 @@ GAMEPLAY_Forge,Forge,,Rèn
 GAMEPLAY_ForgeFuelDoor,Furnace,,Lò nung
 GAMEPLAY_ForgeNotHotEnoughForCrafting,Forge temperature required: {temperature},,Nhiệt độ yêu cầu để rèn: {temperature}
 GAMEPLAY_BurnTimeNeededForCoal,Minutes before coal can be added: {minutes},,Số phút trước khi than có thể bổ sung: {minutes}
-GAMEPLAY_Plank,Plank,a single plank of wood,
+GAMEPLAY_Plank,Plank,a single plank of wood,Tấm ván
 GAMEPLAY_Harvested,Harvested,,Đã thu hoạch
 GAMEPLAY_Crafted,Crafted,,Đã chế đồ
 GAMEPLAY_Cooked,Cooked,,Đã nấu
@@ -2026,18 +2026,18 @@ GAMEPLAY_WhalingStationRegionDescriptionLocked,Explore the world to find the rou
 GAMEPLAY_WhalingStationRegionDescriptionUnlocked,"For intermediate players. Several key shelters, plenty of hostile wildlife, and harsh weather conditions to be found around these remnants of a once-thriving whaling industry.
 
 Connects to Coastal Highway.","REMOVED: You've found your way to Desolation Point, a stretch of highway featuring the remnants of a once-thriving whaling industry.",
-GAMEPLAY_HwayTransBurnedForest,Crumbling Highway,Crumbling Highway Transition - the name of this burned forest,
+GAMEPLAY_HwayTransBurnedForest,Crumbling Highway,Crumbling Highway Transition - the name of this burned forest,Quốc Lộ Sạt Lở
 GAMEPLAY_HwayTransHouses,Abandoned Harris Home,"Burned Highway Transition - small group of burned, abandoned houses",
-GAMEPLAY_HwayTransRoadCollapse,Road Collapse,Burned Highway Transition - section of road has collapsed/subsided/landslipped away,
+GAMEPLAY_HwayTransRoadCollapse,Road Collapse,Burned Highway Transition - section of road has collapsed/subsided/landslipped away,Đường sạt lở
 GAMEPLAY_HwayTransMine,Abandoned Mine No.3 (west),Burned Highway Transition - abandoned mine entrance,Mỏ Than Bỏ Hoang Số 3 (Tây)
 GAMEPLAY_HwayTransArch,The Arch,Burned Highway Transition - A rock formed arch over sea ice,
 GAMEPLAY_MetalPan,Metal Pan,Metal pot/pan used for cooking food,Chảo kim loại
 GAMEPLAY_HeatOutput,Heat Output,heat output from a stove/furnace,Nhiệt tỏa ra
-SCENENAME_HighwayTransitionZone,Crumbling Highway,A stretch of highway that is falling apart,
-SCENENAME_HighwayMineTransitionZone,No. 3 Coal Mine,,
+SCENENAME_HighwayTransitionZone,Crumbling Highway,A stretch of highway that is falling apart,Quốc Lộ Sạt Lở
+SCENENAME_HighwayMineTransitionZone,No. 3 Coal Mine,,Mỏ Than Số 3
 SCENENAME_Lighthousea,Lonely Lighthouse,,Ngọn hải đăng cô đơn
 SCENENAME_WhalingMine,Abandoned Mine No.5,mine in Whaling region,Mỏ Than Bỏ Hoang Số 5
-SCENENAME_WhalingWarehouseA,Whale Processing,name of a warehouse at the whaling factory,
+SCENENAME_WhalingWarehouseA,Whale Processing,name of a warehouse at the whaling factory,Nhà chế biến cá voi
 SCENENAME_WhalingShipA,The Riken,name of a whaling ship,Tàu Riken
 GAMEPLAY_WhaleCrashedTruck,Matt's Truck,location name for truck crashed off bridge into ice below,Xe tải của Matt
 GAMEPLAY_WhaleIsland,Little Island,Island off coast of whaling region,Tiểu Đảo
@@ -2064,48 +2064,48 @@ GAMEPLAY_LeaveCoastalHighway,Leave Coastal Highway,,Rời Quốc Lộ Ven Biển
 GAMEPLAY_LeaveMine,Leave Mine,,Rời mỏ than
 GAMEPLAY_LeavePleasantValley,Leave PleasantValley,,Rời thung lũng thú vị
 GAMEPLAY_LeaveCave,Leave Cave,,Rời Hang Động
-GAMEPLAY_LeaveCrumblingHighway,Leave Crumbling Highway,,
+GAMEPLAY_LeaveCrumblingHighway,Leave Crumbling Highway,,Rời Quốc Lộ Sạt Lở
 GAMEPLAY_LeaveDesolationPoint,Leave Desolation Point,,Rời Điểm Hoang Tàn
 GAMEPLAY_LeaveUpperDam,Leave Upper Dam,,Rời phía trên đập
 GAMEPLAY_LeaveLowerDam,Leave Lower Dam,,Rời phía dưới đập
-GAMEPLAY_LeaveWindingRiver,Leave Winding River,,
-GAMEPLAY_LeaveBarnhouse,Leave Barnhouse,,
+GAMEPLAY_LeaveWindingRiver,Leave Winding River,,Rời Sông Uống Lượn
+GAMEPLAY_LeaveBarnhouse,Leave Barnhouse,,Rời Chuồng gia súc
 GAMEPLAY_LeaveCampOffice,Leave Camp Office,,Rời trại văn phòng
 GAMEPLAY_LeaveCrashMountain,Leave Timberwolf Mountain,,Rời Núi Timberwolf
 GAMEPLAY_LeaveHouse,Leave House,,Rời khỏi nhà
-GAMEPLAY_LeaveFarmhouse,Leave Farmhouse,,
-GAMEPLAY_LeaveBasement,Leave Basement,,
+GAMEPLAY_LeaveFarmhouse,Leave Farmhouse,,Rời nhà trang trại
+GAMEPLAY_LeaveBasement,Leave Basement,,Rời tầng hầm
 GAMEPLAY_LeaveCabin,Leave Cabin,,Rời nhà gỗ
 GAMEPLAY_LeaveLighthouse,Leave Lighthouse,,Rời ngọn hải đăng
 GAMEPLAY_LeavePrepperCache,Leave Prepper Cache,,Rời Hầm Prepper
 GAMEPLAY_LeaveGasStation,Leave Gas Station,,Rời trạm xăng
-GAMEPLAY_LeaveControlHut,Leave Control Hut,,
+GAMEPLAY_LeaveControlHut,Leave Control Hut,,Rời trạm
 GAMEPLAY_LeaveStore,Leave Store,,Rời nhà kho
 GAMEPLAY_LeaveTrailer,Leave Trailer,,Rời toa xe
 GAMEPLAY_LeaveWhalingShip,Leave Riken,,Rời tàu Riken
-GAMEPLAY_LeaveWarehouse,Leave Warehouse,,
+GAMEPLAY_LeaveWarehouse,Leave Warehouse,,Rời kho hàng
 GAMEPLAY_NewLocationDiscovered,New Location Discovered,,Đã khám phá khu vực mới
 GAMEPLAY_Rope,Mountaineering Rope,,Dây thừng leo núi
-GAMEPLAY_RopeDescription,Heavy-duty rope designed for climbing.,,
+GAMEPLAY_RopeDescription,Heavy-duty rope designed for climbing.,,Đoạn dây nặng được thiết kế để trèo.
 GAMEPLAY_TakeRope,Take Mountaineering Rope,,Lấy dây thừng leo núi
 GAMEPLAY_DeployRope,Deploy Mountaineering Rope,,Vị trí cột dây thừng leo núi
 GAMEPLAY_RopeAddedToInventory,Mountaineering Rope Added To Inventory,,Dây thừng leo núi đã được thêm vào kho đồ
 GAMEPLAY_RopeDeployed,Mountaineering Rope Deployed,,Dây thừng leo núi đã được cột
 GAMEPLAY_NoRope,No Mountaineering Rope In Inventory,,Không có dây thừng leo núi trong kho đồ
 GAMEPLAY_Ledge,Ledge,,Mỏm đá
-GAMEPLAY_FlareGun,Distress Pistol,,
-GAMEPLAY_FlareGunDescription,A device used to launch an emergency beacon into the air. Fires Flare Shells.,,
+GAMEPLAY_FlareGun,Distress Pistol,,Súng pháo sáng
+GAMEPLAY_FlareGunDescription,A device used to launch an emergency beacon into the air. Fires Flare Shells.,,Một thiết bị dùng để gửi tín hiệu cầu cứu lên trời. Sử dụng đạn pháo sáng.
 GAMEPLAY_SurvivalRecord,Survival Record,,
 GAMEPLAY_DaysSurvived,Days Survived,,Ngày đã sống
 GAMEPLAY_CurrentSandbox,Current Sandbox,,Hiện tại
 GAMEPLAY_AllTime,All Time,,Tất cả
-GAMEPLAY_DiedFrom,Died From,,
+GAMEPLAY_DiedFrom,Died From,,Đã chết từ
 GAMEPLAY_Statistic,Statistic,,Thống kê
 GAMEPLAY_DetailedStats,Detailed Stats,,Thông kê chi tiết
 GAMEPLAY_Stats,Stats,,Thống kê
 GAMEPLAY_FlareGunAmmoSingle,Flare Shell,,Đạn pháo sáng
 GAMEPLAY_FlareGunAmmoSingleDescription,An emergency beacon fired from a Distress Pistol.,,Một tín hiệu khẩn cấp bắn ra từ súng pháo sáng.
-SCENENAME_RuralHouse,Crossroads House,name for house interiors in Pleasant Valley's crossroads town,
+SCENENAME_RuralHouse,Crossroads House,name for house interiors in Pleasant Valley's crossroads town,Nhà giao lộ
 GAMEPLAY_ResetAllTimeStats,Reset Stats,,Đặt lại thông kê
 GAMEPLAY_DetailedView,Detailed View,,Xem chi tiết
 GAMEPLAY_SummaryView,Summary View,,Xem tóm tắt
@@ -2146,7 +2146,7 @@ GAMEPLAY_Delete,Delete,deleting a save slot,Xóa
 GAMEPLAY_EmptySlot,Empty Slot,empty save slot,Ô trống
 GAMEPLAY_DeleteSaveSlotMessage,Are you sure you want to delete the selected game? All progress from that game session will be lost.,,Bạn có chắc muốn xóa Game đã chọn? Tất cả quá trình đã chơi sẽ bị mất.
 GAMEPLAY_ClimbersJournal,Climber's Journal Page,,Giấy nhật ký của Climber
-GAMEPLAY_ClimbersJournalDescription,A page from a climber's journal found near the base of Timberwolf Mountain.,,
+GAMEPLAY_ClimbersJournalDescription,A page from a climber's journal found near the base of Timberwolf Mountain.,,Một tờ giấy nhật ký của người leo núi tìm thấy ở gần trung tâm Núi Timberwolf.
 GAMEPLAY_ClimbersJournalNarrativeText,"Sept 5th
 Arrived at the base of Timberwolf Mountain. Looks like there are some nice cracks, just like Clive said. Going to set up a top rope and do some bouldering until the others show up. Hopefully soon.
 
@@ -2155,8 +2155,8 @@ Wondering if my friends got lost as they still haven't arrived. Woke up in the n
 
 Sept 7th
 Clear day. I went out again. Found some metal cargo crates. They look like they might have come from a plane. There's still smoke coming from the summit. I'm heading out to see if I can make it to the peak and learn more about what's going on.",,
-GAMEPLAY_Meters,Metres,,
-GAMEPLAY_FEET,Feet,,
+GAMEPLAY_Meters,Metres,,Mét
+GAMEPLAY_FEET,Feet,,Feet
 GAMEPLAY_Notes,Notes,,Ghi chút
 GAMEPLAY_NoDataThisDay,No data for this day.,Refers to saved Stats data.,Không có dữ liệu của ngày hôm nay. 
 GAMEPLAY_LogExploredMessage,I have explored {%-value}% of the world so far,,Mình đã khám phá {%-value}% thế giới này.
@@ -2170,9 +2170,9 @@ GAMEPLAY_GeneralNotes,General Notes,,Ghi chú chung
 GAMEPLAY_LogDayCount,Day {day-value},,Ngày {day-value}
 GAMEPLAY_LogDayCountSummary,Day {day-value} Summary,,Sơ lược ngày {day-value}
 GAMEPLAY_LogDayCountNotes,Day {day-value} Notes,,Ghi chú ngày {day-value}
-GAMEPLAY_Collectibles,Collectibles,,
+GAMEPLAY_Collectibles,Collectibles,,Bộ sưu tập
 GAMEPLAY_TakeNotes,Take Notes,,Lấy ghi chú
-GAMEPLAY_DailyLog,Daily Log,,
+GAMEPLAY_DailyLog,Daily Log,,Ghi chú hằng ngày
 GAMEPLAY_EditNotes,Edit Notes,,Sửa ghi chú
 GAMEPLAY_ReadText,Read Text,,Đọc chữ
 GAMEPLAY_Stat_HoursSurvived,Days Survived,,Ngày đã sống
@@ -2235,10 +2235,10 @@ GAMEPLAY_Stat_CansOpened,Cans Opened,,Đồ hộp đã mở
 GAMEPLAY_Stat_ItemsLooted,Items looted,,Đồ đã cướp
 GAMEPLAY_Stat_LongestBurningFire,Longest Burning Fire <HOURS>,Please do not translate the the text between the < >. This text will be replaced at runtime with the correct value,Đám lửa cháy lâu nhất <HOURS>
 GAMEPLAY_Stat_CanOpenersFound,Can Openers Found,,Tìm thấy mở đồ hộp
-GAMEPLAY_Stat_NumRopeSlips,Slips on Rope,,
-GAMEPLAY_Stat_NumRopeFalls,Falls from Rope,,
-GAMEPLAY_Stat_DistanceTravelledOnRope,Distance Travelled on Rope<DISTANCE_METERS>,Please do not translate the the text between the < >. This text will be replaced at runtime with the correct value,
-GAMEPLAY_NoCollectiblesFound,No collectibles found.,,
+GAMEPLAY_Stat_NumRopeSlips,Slips on Rope,,Trượt tay khỏi dây
+GAMEPLAY_Stat_NumRopeFalls,Falls from Rope,,Rơi xuống từ dây
+GAMEPLAY_Stat_DistanceTravelledOnRope,Distance Travelled on Rope<DISTANCE_METERS>,Please do not translate the the text between the < >. This text will be replaced at runtime with the correct value,Khoảng cách di chuyển trên dây thừng <DISTANCE_METERS>
+GAMEPLAY_NoCollectiblesFound,No collectibles found.,,Không có bộ sưu tập nào.
 SCENENAME_CrashMountainRegion,Timberwolf Mountain,,Núi Timberwolf
 GAMEPLAY_CrashMountainRegionLocked,Explore the world to find the route that leads to this region!,,Khám phá thế giới để tìm ra con đường đến khu vực này!
 GAMEPLAY_CrashMountainRegionUnlocked,"For advanced players. An isolated alpine region with very few shelters or resources. A true test of wilderness survival skills.
@@ -2263,9 +2263,9 @@ GAMEPLAY_CrashChasmPeak1,Echo Peak East,Two small peaks sit next to trail into C
 GAMEPLAY_CrashChasmPeak2,Echo Peak West,Two small peaks sit next to trail into Chasm,Đỉnh Tây
 GAMEPLAY_CrashSecretPeak,Andre's Peak,"small peak you can reach the top of, view towards lake",Đỉnh của Andre
 GAMEPLAY_ToolRequiredToForceOpen,Requires {item-name},,Yêu cầu {item-name}
-GAMEPLAY_DeployRopeAction,Deploying Rope...,,
-GAMEPLAY_TakeRopeAction,Taking Rope...,,
-GAMEPLAY_Cargo,Cargo Container,Used when searchinng a door on a cargo crate,
+GAMEPLAY_DeployRopeAction,Deploying Rope...,,Cột dây thừng...
+GAMEPLAY_TakeRopeAction,Taking Rope...,,Lấy dây thừng...
+GAMEPLAY_Cargo,Cargo Container,Used when searchinng a door on a cargo crate,Thùng Container
 GAMEPLAY_ResetAllTimeStatsConfirmation,Are you sure you would like to reset your stats? All previous stats will be deleted.,,Bạn có chắc muốn khôi phục lại các số liệu? Tất cả số liệu trước đó sẽ bị xóa.
 SCENENAME_EmptyPrepperCache,Prepper's Abandoned Cache,,
 GAMEPLAY_RuralCrashCorner,Point of Disagreement,location in Pleasant Valley where a few cars/truck have crashed,
@@ -2322,10 +2322,10 @@ STEAM_CONTROLLER_Action_Inventory_Drop,Inventory:Drop,,Kho đồ: Vứt
 STEAM_CONTROLLER_Action_Inventory_FilterLeft,Inventory:FilterLeft,,
 STEAM_CONTROLLER_Action_Inventory_FilterRight,Inventory:FilterRight,,
 STEAM_CONTROLLER_Action_Inventory_Equip,Inventory:Equip,,Kho đồ: Trang bị
-STEAM_CONTROLLER_Action_Inventory_Examine,Inventory:Examine,,
+STEAM_CONTROLLER_Action_Inventory_Examine,Inventory:Examine,,Kho đồ: Xem xét
 STEAM_CONTROLLER_Action_Inventory_Sort,Inventory:Toggle Sort,,Kho đồ: Chuyển chế độ sắp xếp
-STEAM_CONTROLLER_Action_Container_SelectLeftTable,Container:Select Left Table,,
-STEAM_CONTROLLER_Action_Container_SelectRightTable,Container:Select Right Table,,
+STEAM_CONTROLLER_Action_Container_SelectLeftTable,Container:Select Left Table,,Hộp chứa: Chọn bên trái
+STEAM_CONTROLLER_Action_Container_SelectRightTable,Container:Select Right Table,,Hộp chứa: Chọn bên phải
 STEAM_CONTROLLER_Action_Options_Confirm,Options:Confirm,,Tùy chọn: Xác nhận
 STEAM_CONTROLLER_Action_Struggle_Tap,Struggle Tap,,
 STEAM_CONTROLLER_Action_FeedFire_TakeTorch,FeedFire:Take Torch,,
@@ -2683,8 +2683,8 @@ GAMEPLAY_IntestinalParasites,Intestinal Parasites,,Ký sinh trùng đường ru�
 GAMEPLAY_IntestinalParasitesRisk,Risk of Intestinal Parasites,,Nguy cơ ký sinh trùng đường ruốt
 GAMEPLAY_IntestinalParasitesCause,Infected Meat,,Thịt nhiễm trùng
 GAMEPLAY_IntestinalParasitesDesc,You ate infected game meat and now have Intestinal Parasites. Recovery requires multiple daily treatments! You will continue to weaken until treatment has run its full course. [Maximum 1 dose/day.],,
-GAMEPLAY_IntestinalParasitesRiskTreatment,Avoid eating more meat from carnivores.,,
-GAMEPLAY_IntestinalParasitesRiskDesc,Game meat from carnivorous animals may be infected with parasites.,,
+GAMEPLAY_IntestinalParasitesRiskTreatment,Avoid eating more meat from carnivores.,,Tránh ăn nhiều thịt từ động vật
+GAMEPLAY_IntestinalParasitesRiskDesc,Game meat from carnivorous animals may be infected with parasites.,,Ăn thịt từ động vật có thể bị nhiễm kí sinh trùng.
 GAMEPLAY_Doses,Doses,,Liều thuốc
 GAMEPLAY_DosesRemaining,Doses Remaining,,Liều thuốc còn lại
 GAMEPLAY_IntestinalParasitesRiskHasPassed,Risk of Intestinal Parasites has passed,,Nguy cơ bị ký sinh trùng đường ruột đã qua
@@ -2816,7 +2816,7 @@ GAMEPLAY_BuildingShelterWillCost,Building Snow Shelter Will Cost,,Dựng lều t
 GAMEPLAY_RepairShelterWillCost,Repair Snow Shelter Will Cost,,Sửa lều tuyết sẽ mất
 GAMEPLAY_DismantleShelterWillCost,Dismantle Snow Shelter Will Cost,,Phá dỡ lều tuyết sẽ mất
 GAMEPLAY_Badges,Badges,,Danh hiệu
-GAMEPLAY_BadgesProgress,{num-collected} of {num-total} Collected,,
+GAMEPLAY_BadgesProgress,{num-collected} of {num-total} Collected,,{num-collected} trong {num-total} Bộ Sưu Tập
 GAMEPLAY_AdjustBrightnessDesc,"Adjust the slider until The Long Dark logo is barely visible, and the wolf disappears completely.",,Điều chỉnh thanh trượt để vừa đủ nhìn thấy logo The Long Dark và con sói biến mất hoàn toàn.
 GAMEPLAY_Lighter,Lighter,screen brightness increase,Sáng hơn
 GAMEPLAY_Darker,Darker,screen brightness decrease,Tối hơn
