@@ -6,7 +6,7 @@ ACHIEVEMENT_CenturtionDescription,You survived for 100 days in a single Sandbox 
 ACHIEVEMENT_ColdOutThere,It's Getting Cold Out There,,Ở đây bắt đầu giá rét
 ACHIEVEMENT_ColdOutThereDescription,You survived 15 days in a single Sandbox mode game.,,Sống sót 15 ngày trong chế độ Sandbox đơn.
 ACHIEVEMENT_ExplorationGame,Exploration Game,,Khám phá Game
-ACHIEVEMENT_ExplorationGameDescription,Visit every interior location in both Mystery Lake and Coastal Highway (single game),,Thăm mỗi vị trí bên trong Hồ Mystery và Quốc Lộ Ven Biển (Chơi đơn)
+ACHIEVEMENT_ExplorationGameDescription,Visit every interior location in both Mystery Lake and Coastal Highway (single game),,Thăm mỗi vị trí bên trong Hồ Bí Ẩn và Quốc Lộ Ven Biển (Chơi đơn)
 ACHIEVEMENT_FirstOfMany,The First of Many,,Ngày đầu tiên
 ACHIEVEMENT_FirstOfManyDescription,You survived for 1 day in a single Sandbox mode game.,,Sống sót 1 ngày trong chế độ Sandbox đơn.
 ACHIEVEMENT_HappyHarvester,Happy Harvester,,Thu hoạch hài lòng
@@ -100,7 +100,7 @@ GAMEPLAY_BasicWoolHat,Basic Wool Hat,,Mũ len cơ bản
 GAMEPLAY_BasicWoolHatDescription,Simple knitted wool hat.,,Mũ đan bằng len
 GAMEPLAY_BasicWoolScarf,Basic Wool Scarf,,Khăn len cơ bản
 GAMEPLAY_BasicWoolScarfDescription,Simple knitted scarf.,,Khăn đan bằng len
-GAMEPLAY_Basin,Basin,,
+GAMEPLAY_Basin,Basin,,Cái chậu
 GAMEPLAY_Bearattack,Bear Attack!,,Gấu tấn công!
 GAMEPLAY_BearCarcass,Black Bear Carcass,,Xác gấu đen
 GAMEPLAY_BearCreekCampground,Bear Creek Campground,,Thung lũng cắm trại
@@ -133,14 +133,14 @@ GAMEPLAY_BreakIce,Break Ice,,Phá băng
 GAMEPLAY_BreakIceProgress,Breaking Ice...,,Đangphá băng...
 GAMEPLAY_BreakingDownProgress,Breaking down...,break into smaller pieces,Đang đập vỡ...
 GAMEPLAY_BreakingDownWillCost,Breaking down will cost,break into smaller pieces,Đập vỡ sẽ mất
-GAMEPLAY_BrokenBeyondRepair,{item-name} has been broken beyond repair.,,
-GAMEPLAY_BuildAttackStrength,Build Strength,,
+GAMEPLAY_BrokenBeyondRepair,{item-name} has been broken beyond repair.,,{item-name} đã bị hỏng không thể sửa chữa.
+GAMEPLAY_BuildAttackStrength,Build Strength,,Tạo dựng sức mạnh
 GAMEPLAY_BurnedOutPostfix,(Burned Out),,(Đã cháy)
-GAMEPLAY_BurnPerHour,Burn/Hour,,
+GAMEPLAY_BurnPerHour,Burn/Hour,,Đốt cháy/Giờ
 GAMEPLAY_Burns,Burns,,Vết bỏng
 GAMEPLAY_BurnsDescription,"You have sustained serious burns. Your general Condition will be reduced until you treat the burns, or you heal naturally.",,Bạn đã bị bỏng nặng. Các tình trạng chung sẽ giảm xuống đến khi xử lý viết bỏng hoặc chữa lành một cách tự nhiên.
 GAMEPLAY_BurnsHealed,Burns Healed,,Chữa lành vết bỏng
-GAMEPLAY_ButtonAddToFire,Add To Fire,,
+GAMEPLAY_ButtonAddToFire,Add To Fire,,Thêm lửa
 GAMEPLAY_ButtonBack,Back,,Quay lại
 GAMEPLAY_ButtonBeginCrafting,Begin Crafting,,Bắt đầu chế đồ
 GAMEPLAY_ButtonBoil,Boil,,Đun sôi
@@ -186,7 +186,7 @@ GAMEPLAY_CedarFirewoodDescription,"Cedar burns with an aromatic glow, but doesn'
 GAMEPLAY_Chair,Chair,,Ghế
 GAMEPLAY_ChanceOfSuccess,Chance of Success,,Cơ hội thành công
 GAMEPLAY_ChanceSuccess,Chance Success,,Cơ hội thành công
-GAMEPLAY_Chest,Chest,,
+GAMEPLAY_Chest,Chest,,Ngực
 GAMEPLAY_ChooseYour,Choose Your,,Lựa chọn
 GAMEPLAY_Clear,Clear,,Lau chùi
 GAMEPLAY_Clearcut,Clearcut,,Rừng trọc
@@ -203,9 +203,9 @@ GAMEPLAY_CoffeeCup,Cup of Coffee,,Tách cà phê
 GAMEPLAY_CoffeeCupDescription,A cup of coffee.,,Một tách cà phê.
 GAMEPLAY_CoffeeCups,Cups of Coffee,,Tách cà phê
 GAMEPLAY_CoffeeTin,Tin of Coffee,,Gói cà phê
-GAMEPLAY_CoffeeTinDescription,"A tin of ground coffee. Who knows how long it's been sitting here? A drink that can take the edge off fatigue, and warm your insides on a cold night.",,
+GAMEPLAY_CoffeeTinDescription,"A tin of ground coffee. Who knows how long it's been sitting here? A drink that can take the edge off fatigue, and warm your insides on a cold night.",,Một gói cà phê. Ai mà biết được phải cắm rễ ở đây bao lâu? Một đồ uống giúp giảm mệt mỏi và làm ấp cơ thể trong màn đêm giá buốt.
 GAMEPLAY_Cold,Cold,,Lạnh
-GAMEPLAY_Colder,Colder,,
+GAMEPLAY_Colder,Colder,,Lạnh buốt
 GAMEPLAY_ColdPostfix,(Cold),,(Lạnh)
 GAMEPLAY_CommutersLament,Commuter's Lament,,Lời oán than của dân đi làm
 GAMEPLAY_CompressionBandage,Compression Bandage,,Băng gạc nén
@@ -358,7 +358,7 @@ GAMEPLAY_Drop,Drop,,Vứt
 GAMEPLAY_DropAll,Drop All,,Vứt hết
 GAMEPLAY_DropDecoy,Drop Decoy,,Thả mồi nhử
 GAMEPLAY_DroppedItem,{item-name} dropped,,{item-name} đã vứt
-GAMEPLAY_Dryer,Dryer,,
+GAMEPLAY_Dryer,Dryer,,Máy sấy
 GAMEPLAY_Dysentery,Dysentery,,Bệnh kiết lỵ
 GAMEPLAY_DysenteryDescription,You drank non-potable water and are now suffering an intestinal disease. You will weaken and die of dehydration unless you can treat it.,,Bạn đã dùng nước không uống được và bây giờ đang bị một bệnh đường ruột. Cơ thể sẽ suy yếu và chết vì mất nước nếu không được chữa trị.
 GAMEPLAY_DysenteryHasPassed,Dysentery Has Passed,,Đã qua khỏi bệnh kiết lỵ
@@ -395,24 +395,33 @@ GAMEPLAY_ExitFlyMode,Exit Fly Mode,,Thoát khỏi chế độ bay
 GAMEPLAY_ExitVehicle,Exit Vehicle,,Xuống xe
 GAMEPLAY_Experience,Experience,"As in ""Choose your experience""",Kinh nghiệm
 GAMEPLAY_ExperienceModeAlphaDisclaimer,NOTE: All tuning values are Alpha and many will likely change over time.,,LƯU Ý: Tất cả các giá trị đều trong giai đoạn thử nghiệm và sẽ thay đổi khá nhiều theo thời gian.
-GAMEPLAY_ExperienceModeDescPilgrim,Wander the quiet apocalypse to chronicle the passing of an age. This is the poetry of survival.,Flavour text for the Pilgrim experience mode.,
+GAMEPLAY_ExperienceModeDescPilgrim,Wander the quiet apocalypse to chronicle the passing of an age. This is the poetry of survival.,Flavour text for the Pilgrim experience mode.,Lạc vào sự khải huyền để ghi chép lại một thời đã qua. Đó là chất thơ của tàn dư.
 GAMEPLAY_ExperienceModeDescPilgrimBullets,"•  For new or experienced players most interested in pensive Exploration.
 •  Most survival elements tuned to be very forgiving.
 •  Wildlife will not attack unless provoked.
-•  Allows for 5 active Feats.","This text describes the selected experience mode (in this case, Pilgrim).",
-GAMEPLAY_ExperienceModeDescStalker,"Your demise waits behind every hilltop, shelter, and tree. Only the strong survive.",Flavour text for the Stalker experience mode.,
+•  Allows for 5 active Feats.","This text describes the selected experience mode (in this case, Pilgrim).","•  Dành cho người chơi mới hoặc muốn khám phá trải nghiệm thế giới.
+•  Hầu hết các yếu tố sinh tồn đề rất dễ dàng.
+•  Động vật hoang dã sẽ không tấn công trừ khi bị khiêu khích.
+•  Cho phép kích hoạt 5 chiến công."
+GAMEPLAY_ExperienceModeDescStalker,"Your demise waits behind every hilltop, shelter, and tree. Only the strong survive.",Flavour text for the Stalker experience mode.,"Cái chết của ngươi đang chờ đợi phía sau những đỉnh đồi, nơi trú ẩn, hay cái cây. Chỉ có kẻ mạnh mới sống sót."
 GAMEPLAY_ExperienceModeDescStalkerBullets,"•  For veteran players looking for a punishingly challenging Survival experience.
 •  Hostile wildlife is common, and will hunt you down.
 •  All survival elements are tuned to be particularly challenging.
-•  Allows for 3 active Feats.","This text describes the selected experience mode (in this case, Stalker).",
-GAMEPLAY_ExperienceModeDescVoyageur,"Equal parts hunter and hunted, your struggle to survive will eventually lead to mastering the elements.",Flavour text for the Voyageur experience mode.,
+•  Allows for 3 active Feats.","This text describes the selected experience mode (in this case, Stalker).","•  Cho những chiến binh có kinh nghiệm sinh tồn đương đầu với thử thách.
+•  Động vật hoang dã phổ biến và sẽ săn lùng bạn.
+•  Tất cả yếu tố sinh tồn được điều chỉnh đặc biệt khó khăn.
+•  Cho phép kích hoạt 3 chiến công."
+GAMEPLAY_ExperienceModeDescVoyageur,"Equal parts hunter and hunted, your struggle to survive will eventually lead to mastering the elements.",Flavour text for the Voyageur experience mode.,"Cân bằng giữa kẻ bị săn và kẻ đi săn, đấu tranh sinh tồn để làm chủ mọi thứ."
 GAMEPLAY_ExperienceModeDescVoyageurBullets,"•  For new or experienced players looking for a balance between Exploration and Survival.
 •  Wildlife is sparse, but can seek you out.
 •  Survival elements are challenging but resources are plentiful.
-•  Allows for 4 active Feats.","This text describes the selected experience mode (in this case, Voyageur).",
+•  Allows for 4 active Feats.","This text describes the selected experience mode (in this case, Voyageur).","•  Cho người chơi mới hoặc có kinh nghiệm muốn cân bằng giữa khám phá và sinh tồn.
+•  Động vật hoang dã thưa thớt, có thể truy lùng bạn.
+•  Thử thách yếu tố sinh tồn nhưng tài nguyên vẫn phong phú
+•  Cho phép kích hoạt 4 chiến công."
 GAMEPLAY_ExperiencingBloodLossHUD,Losing blood...,,Đang mất máu...
 GAMEPLAY_ExperiencingBloodLossLog,Experiencing significant blood loss.,,Trải qua việc mất máu đáng kể.
-GAMEPLAY_Extinguishing,Extinguishing...,,Đang tắt lửa...
+GAMEPLAY_Extinguishing,Extinguishing...,,Đang dập lửa...
 GAMEPLAY_Failed,Failed,,Thất bại
 GAMEPLAY_Failedattempttostartfire,Failed attempt to start fire.,,Thất bại trong việc nhóm lửa.
 GAMEPLAY_Fatigue,Fatigue,,Mệt mỏi
@@ -432,7 +441,7 @@ GAMEPLAY_FireBarrel,Fire Barrel,,Thùng phi cháy
 GAMEPLAY_FireDuration,Fire duration,,Thời gian cháy
 GAMEPLAY_Firelog,Firelog,,Củi ép
 GAMEPLAY_FirelogDescription,Firelog made of chemicals and compressed shavings. Doesn't throw off much heat.,,Củi ép được làm từ hóa chất và mùn cưa. Không tỏa ra nhiều nhiệt.
-GAMEPLAY_FirePlace,Fire Place,,Bếp củi
+GAMEPLAY_FirePlace,Fire Place,,Lò sưởi
 GAMEPLAY_FirestarterHeader,Starter,,Khởi động
 GAMEPLAY_Firestriker,Firestriker,,Bộ đánh lửa
 GAMEPLAY_FirestrikerDescription,Metal tool designed to help start fires in the wilderness.,,Công cụ sắt được thiết kế để giúp nhóm lửa nơi hoang dã.
@@ -467,7 +476,7 @@ GAMEPLAY_FoodPoisoningHasPassed,Food Poisoning Has Passed,,Qua khỏi ngộ đ�
 GAMEPLAY_Forage,Forage,,Tàn phá
 GAMEPLAY_ForagingProgress,Foraging...,,Đang tàn phá...
 GAMEPLAY_ForagingWillCost,Foraging will cost,followed by time and calories that will be spent,Tàn phá sẽ mất
-GAMEPLAY_Forcing,Forcing...,,
+GAMEPLAY_Forcing,Forcing...,,Đang phá...
 GAMEPLAY_ForestryLookout,Forestry Lookout,,Chòi lâm nghiệp
 GAMEPLAY_Forward,Forward,,Tiến
 GAMEPLAY_FOV,FOV,,Góc nhìn
@@ -480,8 +489,8 @@ GAMEPLAY_FrozenCreek,Frozen Creek,,Nhánh sông băng
 GAMEPLAY_FrozenPercentPostfix,({%-value}% Frozen),,({%-value}% đông lạnh)
 GAMEPLAY_FrozenPostfix,(Frozen),,(Đông lạnh)
 GAMEPLAY_Fuel,Fuel,,Nhiên liệu
-GAMEPLAY_FuelChest,Fuel Chest,,
-GAMEPLAY_FuelCover,Fuel Cover,,
+GAMEPLAY_FuelChest,Fuel Chest,,Bình nhiên liệu
+GAMEPLAY_FuelCover,Fuel Cover,,Nắp nhiên liệu
 GAMEPLAY_FuelRemainingPostfix,({%-value}% Fuel),,({%-value}% nhiên liệu)
 GAMEPLAY_FullScreen,Full Screen,,Toàn màn hình
 GAMEPLAY_galUnits,gal,,gal
@@ -519,7 +528,7 @@ GAMEPLAY_HarvestMeat,Harvest Meat,,Thu hoạch thịt
 GAMEPLAY_Hatch,Hatch,,Cửa hầm
 GAMEPLAY_Hatchet,Hatchet,,Rìu nhỏ
 GAMEPLAY_HatchetDescription,A small one-handed axe. Good for splitting wood. Can be used to hack meat in a pinch.,,Một cái rìu cầm tay nhỏ. Tốt cho việc xẻ gỗ. Cũng có thể dùng để tách những thớ thịt cứng.
-GAMEPLAY_Healthy,Healthy,,
+GAMEPLAY_Healthy,Healthy,,Sức khỏe
 GAMEPLAY_HeatedItem,{item-name} warmed up,,{item-name} đã ấm lên
 GAMEPLAY_HeatUp,Heat up,to heat food,Làm nóng
 GAMEPLAY_HeavySnow,Heavy Snow,,Tuyết dày
@@ -529,8 +538,8 @@ GAMEPLAY_Help,Help,,Trợ giúp
 GAMEPLAY_High,High,,Cao
 GAMEPLAY_HighResScreenshot,High Resolution Screenshot (HUD Disabled),,Chụp màn hình độ phân giải cao (Tắt HUD)
 GAMEPLAY_HoldToRun,Hold To Run,,Giữ để chạy
-GAMEPLAY_Holster,Holster,,
-GAMEPLAY_Hood,Hood,,
+GAMEPLAY_Holster,Holster,,Bao súng
+GAMEPLAY_Hood,Hood,,Mui xe
 GAMEPLAY_Hook,Hook,,Lưỡi câu
 GAMEPLAY_HookDescription,A basic hook suitable for fishing.,,Một cái móc phù hợp để câu cá.
 GAMEPLAY_Hooks,Hooks,,Lưỡi câu
@@ -608,8 +617,8 @@ GAMEPLAY_kmhUnits,km/h,,km/h
 GAMEPLAY_kmUnits,km,,km
 GAMEPLAY_Ladder,Ladder,,Thang
 GAMEPLAY_LakeCabins,Lake Cabins,,Nhà gỗ nhỏ cạnh hồ
-GAMEPLAY_LakeTrail,Lake Trail,,
-GAMEPLAY_Lampalreadyfull,Lamp already full,,
+GAMEPLAY_LakeTrail,Lake Trail,,Đường mòn hồ
+GAMEPLAY_Lampalreadyfull,Lamp already full,,Đèn đã đầy
 GAMEPLAY_Language,Language,,Ngôn ngữ
 GAMEPLAY_LanternFuel,Lantern Fuel,,Nhiên liệu lồng đèn
 GAMEPLAY_LanternFuelDescription,Small bottle of lamp oil.,,Túi nhỏ chứa dầu hỏa.
@@ -638,15 +647,15 @@ How long can you survive?",,"Một cơn bão từ bí ẩn đã làm rơi máy b
 Bạn có thể sống sót trong bao lâu?"
 GAMEPLAY_LockedPostfix,(Locked),,(Đã khóa)
 GAMEPLAY_Locker,Locker,,Đã khóa
-GAMEPLAY_Log,Log,,
-GAMEPLAY_Logbook,Log,,
+GAMEPLAY_Log,Log,,Gỗ
+GAMEPLAY_Logbook,Log,,Gỗ
 GAMEPLAY_LoggingCamp,Logging Camp,,Trại khai thác gỗ
-GAMEPLAY_Logs,Logs,,
+GAMEPLAY_Logs,Logs,,Gỗ
 GAMEPLAY_LogSort,Log Sort,,Phân loại gỗ
 GAMEPLAY_LoneLakeCabin,Lone Lake Cabin,,Nhà gỗ cô đơn cạnh hồ
 GAMEPLAY_Lookout,Lookout,,Canh gác
 GAMEPLAY_Low,Low,,Thấp
-GAMEPLAY_Madeittoday,Made it to day,,
+GAMEPLAY_Madeittoday,Made it to day,,Làm nó hôm nay
 GAMEPLAY_MagnifyingLens,Magnifying Lens,,Kính lúp
 GAMEPLAY_MagnifyingLensDescription,A magnifying lens that can be used to start a fire during daylight.,,Một cái kính lúp dùng để nhóm lửa vào ban ngày.
 GAMEPLAY_Magnifyinglensrequiresdirectsunlight,Magnifying lens requires direct sunlight,,Kính lúp yêu cầu ánh sáng mặt trời trực tiếp
@@ -656,7 +665,11 @@ GAMEPLAY_MapNotAvailable,"(Not Available In Alpha)
 
 A simple map that shows obvious known landmarks. 
 It will be updated with Knowledge as you 
-explore the world.",,
+explore the world.",,"(Không khả dụng trong Alpha)
+
+Một bản đồ đơn giản cho thấy các địa điểm đã biết.
+Nó sẽ cập nhật vào kiến thức
+khám phá thế giới của bạn."
 GAMEPLAY_MarinersPeaCoat,Mariner's Pea Coat,,Áo khoác Pea Coat
 GAMEPLAY_MarinersPeaCoatDescription,"Heavy wool coat, of the sort traditionally worn by sailors and fishermen.",,"Áo khoác năng, là truyền thống sử dụng của các thủy thủ và ngư dân."
 GAMEPLAY_Match,Match,,Que điêm
@@ -671,7 +684,7 @@ GAMEPLAY_Melt,Melt,,Làm tan
 GAMEPLAY_MeltingProgress,Melting Snow...,,Đang làm tan tuyết...
 GAMEPLAY_MeltSnow,Melt snow,,Làm tan tuyết
 GAMEPLAY_MerlesKnowledge,Merle's Gas N Go,,
-GAMEPLAY_MerlesKnowledgeDescription,Food and possibly medical supplies.,,
+GAMEPLAY_MerlesKnowledgeDescription,Food and possibly medical supplies.,,Thực phẩm và đồ y tế có thể tiếp tế.
 GAMEPLAY_MetalContainer,Metal Container,,Hộp chứa kim loại
 GAMEPLAY_Metric,Metric,,Mét
 GAMEPLAY_Microwave,Microwave,,Lò vi sóng
@@ -740,8 +753,8 @@ GAMEPLAY_NumAddedInventory,{item-name} ({num-value}) added to inventory,,{item-n
 GAMEPLAY_NumRoundsReturned,{num-value} rounds returned to inventory,,{num-value} viên đạn đã trở lại kho đồ
 GAMEPLAY_of,of,"as in ""1 of 3""",của
 GAMEPLAY_Off,Off,,Tắt
-GAMEPLAY_OldManDavisKnowledge,Old Man Davis,,
-GAMEPLAY_OldManDavisKnowledgeDescription,"Armed and paranoid, but a good man.",,
+GAMEPLAY_OldManDavisKnowledge,Old Man Davis,,Lão già Davis
+GAMEPLAY_OldManDavisKnowledgeDescription,"Armed and paranoid, but a good man.",,"Vũ trang đầy mình và hoang tưởng, nhưng là một chàng trai tốt bụng."
 GAMEPLAY_OldMansBeard,Old Man's Beard Lichen,,Nấm địa y Usnea
 GAMEPLAY_OldMansBeardDescription,A lichen found in the ancient forests of the Pacific Northwest.,,Một địa y được tìm thấy ở khu rừng cổ ở vùng Tây Bắc.
 GAMEPLAY_OldMansBeardDressing,Old Man's Beard Wound Dressing,,Băng gạc nấm địa y Usnea
@@ -820,7 +833,9 @@ GAMEPLAY_QuoteDavies,"“Extraordinary people survive under the most terrible ci
 - Robertson Davies"
 GAMEPLAY_QuoteGolding,"“He knelt among the shadows and felt his isolation bitterly. They were savages it was true; but they were human.” 
 
-- William Golding, Lord of the Flies",,
+- William Golding, Lord of the Flies",,"""Anh ta quỳ trong bóng tối và cảm thấy sự cô lập một cách cay đắng. Bọn chúng là lũ man rợ thật sự; nhưng chúng là con người.""
+
+- William Golding, Lord of the Flies"
 GAMEPLAY_QuoteHeller,"“He is at home with his solitude as the note reverberating inside a bell.” 
 
 - Peter Heller, The Dog Stars",,
@@ -859,7 +874,9 @@ GAMEPLAY_QuoteThoreau,"""I went to the woods because I wished to live deliberate
 - Henry David Thoreau, Walden",,
 GAMEPLAY_QuoteVonnegut,"“It is hard to adapt to chaos, but it can be done. I am living proof of that: It can be done” 
 
-- Kurt Vonnegut, Breakfast of Champions",,
+- Kurt Vonnegut, Breakfast of Champions",,"""Khó có thể thích nghi với hỗn loạn, nhưng điều này có thể làm được. Tôi đang sống để chứng minh rằng. Nó có thể làm được""
+
+- Kurt Vonnegut, Breakfast of Champions"
 GAMEPLAY_RabbitCooked,Rabbit (Cooked),,Thịt thỏ (Đã nấu) 
 GAMEPLAY_RabbitCookedDescription,Cooked flesh from a rabbit.,,Thịt đã nấu từ một con thỏ.
 GAMEPLAY_RabbitGrove,Rabbit Grove,,Rừng thỏ
@@ -868,7 +885,7 @@ GAMEPLAY_RabbitRawDescription,Flesh from a rabbit. Cook to eat safely.,,Thịt t
 GAMEPLAY_RabbitSkinMitts,Rabbitskin Mitts,,Găng tay da thỏ
 GAMEPLAY_RabbitSkinMittsDescription,"Handcrafted mittens. Clumsy, but very warm.",,Găng tay da thỏ. Xấu nhưng rất ấm.
 GAMEPLAY_Radio,Radio,,Radio
-GAMEPLAY_RavagedPrefix,Ravaged,,
+GAMEPLAY_RavagedPrefix,Ravaged,,Đã tàn phá
 GAMEPLAY_RawCohoSalmon,Coho Salmon (Raw),,Cá hồi Coho (Tươi)
 GAMEPLAY_RawCohoSalmonDescription,A formidable West Coast fish. Grows to a good size.,,Một con cá hồi phía tây ghê tợn.
 GAMEPLAY_RawLakeWhiteFish,Lake Whitefish (Raw),,Cá hồi trắng (Tươi)
@@ -912,7 +929,7 @@ GAMEPLAY_RifleAmmunitionDescription,A box of rifle cartridges.,,Một hộp đ�
 GAMEPLAY_RifleRound,Rifle Cartridge,,Đạn súng trường
 GAMEPLAY_RifleRoundDescription,A single .303 rifle cartridge.,,Một viên đạn súng trường
 GAMEPLAY_Right,Right,,Phải
-GAMEPLAY_RimGrill,Rim Grill,,
+GAMEPLAY_RimGrill,Rim Grill,,Bếp nướng
 GAMEPLAY_RiverNorthernAccess,River (Northern Access),,Sông (Lối vào phía Bắc)
 GAMEPLAY_RiverSouthernAccess,River (Southern Access),,Sông (Lối vào phía Nam)
 GAMEPLAY_Rockfall,Rockfall,,Đá rơi
@@ -942,8 +959,8 @@ GAMEPLAY_RuralFishingPond,Pensive Pond,an icy pond; pensive refers to a place to
 GAMEPLAY_RuralForestCave,Forest Cave,,Hang lâm nghiệp
 GAMEPLAY_RuralForestPicnic,Picnic Spot,,Điểm dã ngoại
 GAMEPLAY_RuralHillTopCave,Hilltop Cave,a simple cave near the top of a hill,Hang đỉnh đồi
-GAMEPLAY_RuralHuntersBlind1,Hunter's Blind,hunter's blind is a small tower that hunters shoot from,
-GAMEPLAY_RuralHuntersBlind2,Hunter's Blind,,
+GAMEPLAY_RuralHuntersBlind1,Hunter's Blind,hunter's blind is a small tower that hunters shoot from,Tháp săn bắn
+GAMEPLAY_RuralHuntersBlind2,Hunter's Blind,,Tháp săn bắn
 GAMEPLAY_RuralMine,Abandoned Mine,Location name. An abandoned mineshaft the player can travel through.,Mỏ than bỏ hoang
 GAMEPLAY_RuralOldCabins,Derelict Cabins,abandoned cabins,Nhà nhỏ bỏ hoang
 GAMEPLAY_RuralPicnicWaterfall,Misty Falls Picnic Area,a small picnic area near a waterfall,Khu du ngoại thác mơ hồ
@@ -984,7 +1001,7 @@ GAMEPLAY_SewingKit,Sewing Kit,,Đồ may vá
 GAMEPLAY_SewingKitDescription,A basic sewing kit.  Required to craft and repair clothing.,,Mộ bộ may vá cơ bản dùng để may và sửa quần áo.
 GAMEPLAY_Sewingkitrequiredtorepairclothing,Sewing kit required to repair clothing,,Đồ may vá đã yêu cầu để sửa quần áo
 GAMEPLAY_Shoes,Shoes,,Giày
-GAMEPLAY_ShoesDescription,Run of the mill running shoes. Useless in the great outdoors.,,
+GAMEPLAY_ShoesDescription,Run of the mill running shoes. Useless in the great outdoors.,,Vô dụng khi ngoài trời.
 GAMEPLAY_Shovel,Shovel,,Xẻng
 GAMEPLAY_ShovelDescription,Missing,,Xẻng
 GAMEPLAY_SilentClearing,Silent Clearing,,Rừng thưa thầm lặng
@@ -994,8 +1011,8 @@ GAMEPLAY_SkiJacket,Ski Jacket,,Áo khoác trượt tuyết
 GAMEPLAY_SkiJacketDescription,"Synthetic, quilted ski jacket. Keeps the core warm but at the expense of windproofing.",,Lót bông và vải tổng hợp. Giữ ấm cơ thể nhưng không ngăn được gió.
 GAMEPLAY_SleepInterrupted,Something woke you up.,,Thứ gì đó đã đánh thức bạn dậy.
 GAMEPLAY_SleepInterruptedWolf,Interrupted by wolf during sleep!  Had been sleeping for,,Giấc ngủ bị gián đoạn bởi sói!
-GAMEPLAY_SlightlyTired,Slightly Tired,,
-GAMEPLAY_SmallCupboard,Small Cupboard,,
+GAMEPLAY_SlightlyTired,Slightly Tired,,Hơi mệt mỏi
+GAMEPLAY_SmallCupboard,Small Cupboard,,Tủ nhỏ
 GAMEPLAY_SmashCan,Smash Can,,Đập bể hộp
 GAMEPLAY_SmashedItem,Smashed {item-name}.,,Đã đập bể {item-name}.
 GAMEPLAY_SmashedOpenPostfix,(Smashed Open),,(Đã đập bể)
@@ -1014,8 +1031,8 @@ GAMEPLAY_Sound,Sound,,Âm thanh
 GAMEPLAY_South,South,,Hướng Nam
 GAMEPLAY_SouthEast,South East,,Đông Nam
 GAMEPLAY_SouthWest,South West,,Tây Nam
-GAMEPLAY_Spacebar,Space,,
-GAMEPLAY_Spend,Spend,"as in ""spend X hours"" doing something",
+GAMEPLAY_Spacebar,Space,,Dấu cách
+GAMEPLAY_Spend,Spend,"as in ""spend X hours"" doing something",Dùng thời gian
 GAMEPLAY_SprainedAnkle,Sprained Ankle,,Trật mắt cá chân
 GAMEPLAY_SprainedAnkleDescription,"You have twisted your ankle and are now suffering a sprain. Your mobility will be reduced until you treat it, or it heals over time.",,Trợt khớp mắt cá chân và giờ nó sưng lên. Độ linh hoạt của bạn bị giảm đến khi nó được chữa trị hoặc tự lành theo thời gian.
 GAMEPLAY_SprainedAnkleHealed,Sprained Ankle Healed,,Đã lành trật mắt cá chân
@@ -1039,7 +1056,7 @@ Play the story of bush pilot[D79D03FF] Will Mackenzie[-] as he struggles to surv
 Chuyện kể về quá trình đấu tranh tồn tại của phi công[D79D03FF] Will Mackenzie[-] bị rơi máy bay sau cơn bão từ bí ẩn.
 (Mùa 1 - Tập 1-?)"
 GAMEPLAY_Stove,Stove,,Bếp
-GAMEPLAY_Strength,Strength,,
+GAMEPLAY_Strength,Strength,,Sức mạnh
 GAMEPLAY_Strike,Strike,,Đánh diêm
 GAMEPLAY_StrikeMatch,Strike Match,,Đánh diêm
 GAMEPLAY_Subtitles,Subtitles,,Phụ đề
@@ -1051,7 +1068,7 @@ GAMEPLAY_SummitSodaDescription,Sweet carbonated drink. Full of high-fructose cor
 GAMEPLAY_SurvivalPanel,Survival Panel,,Bảng sinh tồn
 GAMEPLAY_SurvivalTimewillnotbesenttoLeaderboards,Survival Time will not be sent to Leaderboards,,Bảng sinh tồn sẽ không được gửi đến Bảng xếp hạng
 GAMEPLAY_Survivor,Survivor,,Người sống sót
-GAMEPLAY_SymptomConditionDrain,Condition Drain,,
+GAMEPLAY_SymptomConditionDrain,Condition Drain,,Điều kiện thoát nước
 GAMEPLAY_SymptomDehydration,Dehydration,,Mất nước
 GAMEPLAY_SymptomFatigue,Fatigue,,Mệt mỏi
 GAMEPLAY_SymptomMaxConditionReduced,Reduced Condition Threshold,,Giảm ngưỡng thể trạng
@@ -1067,7 +1084,7 @@ GAMEPLAY_TakePainkillers,Take Painkillers,,Lấy thuốc giảm đau
 GAMEPLAY_TakingAntibiotics,Taking Antibiotics...,,Đang lấy thuốc kháng sinh...
 GAMEPLAY_TakingPainkillers,Taking Painkillers...,,Đang lấy thuốc giảm đau...
 GAMEPLAY_TakingWaterProgress,Taking Water...,,Đang lấy nước...
-GAMEPLAY_TestCache,Test Cache,,
+GAMEPLAY_TestCache,Test Cache,,Kiểm tra kho chứa
 GAMEPLAY_TestWaterSource,Test Water Source,,Kiểm tra nguồn nước
 GAMEPLAY_TheTooth,The Tooth,,Cái răng
 GAMEPLAY_ThinWoolSweater,Thin Wool Sweater,,Áo len mỏng
@@ -1124,9 +1141,9 @@ GAMEPLAY_Ultra,Ultra,,Cực cao
 GAMEPLAY_UnableToForage,You were unable to forage any usable wood,,Ở đây không thể tàn phá bất kỳ loại gỗ nào
 GAMEPLAY_Unarmed,Unarmed,,Không có vũ trang
 GAMEPLAY_Unequip,Unequip,,Bỏ trang bị
-GAMEPLAY_units,units,,
+GAMEPLAY_units,units,,đơn vị
 GAMEPLAY_UnitsOfMeasurement,Units,,Đo lường
-GAMEPLAY_UnitsToHarvest,Units To Harvest:,,
+GAMEPLAY_UnitsToHarvest,Units To Harvest:,,Đơn vị để thu hoạch:
 GAMEPLAY_Unknown,Unknown,,Không rõ
 GAMEPLAY_UnnamedPond,Unnamed Pond,,Ao không tên
 GAMEPLAY_unsafe,unsafe,,không an toàn
@@ -1134,7 +1151,7 @@ GAMEPLAY_Untreated,Untreated,untreated or unsafe water,Không điều trị
 GAMEPLAY_Use,Use,,Sử dụng
 GAMEPLAY_USE,USE,,SỬ DỤNG
 GAMEPLAY_UseCanOpener,Use Can Opener,,Sử dụng mở đồ hộp
-GAMEPLAY_UseFire,Fire,,
+GAMEPLAY_UseFire,Fire,,Lửa
 GAMEPLAY_UseFireStriker,Firestriker,,Đánh lửa
 GAMEPLAY_UseFlintAndSteel,Flint,,Đá lửa
 GAMEPLAY_UseHatchet,Use Hatchet,,Sử dụng rìu nhỏ
@@ -1185,7 +1202,7 @@ GAMEPLAY_Wind,Wind,,Gió
 GAMEPLAY_Windchill,Windchill,,Gió lạnh
 GAMEPLAY_Window,Window,,Cửa sổ
 GAMEPLAY_WindproofBonus,Windproof Bonus,,Thưởng ngăn gió
-GAMEPLAY_WithWindchill,With Windchill,,
+GAMEPLAY_WithWindchill,With Windchill,,Với Windchill
 GAMEPLAY_Wokeupaftersleeping,Woke up after sleeping,,Thức dậy sau khi ngủ
 GAMEPLAY_Wolf,Wolf,,Chó sói
 GAMEPLAY_Wolfattack,Wolf attack!,,Chó sói tấn công!
@@ -1222,8 +1239,8 @@ GAMEPLAY_YouFeelRested,You feel rested,,Bạn cảm thấy đã được nghỉ 
 GAMEPLAY_YouForaged,You foraged,,Đã tàn phá
 GAMEPLAY_Youhavenoafflictions,You have no afflictions,,Bạn không có bệnh nào
 GAMEPLAY_Youhavesurvived,You have survived,,Bạn đã sóng sốt
-GAMEPLAY_Youhavesurvivedfor,You have survived for:,,
-GAMEPLAY_Yousurvivedfor,You survived for,,
+GAMEPLAY_Youhavesurvivedfor,You have survived for:,,Bạn đã sống sót được:
+GAMEPLAY_Yousurvivedfor,You survived for,,Bạn sống sót được
 GAMEPLAY_ZeroHourMinute,0h 0m,,0h 0m
 GAMEPLAY_ZeroTime,0m,,0m
 SCENENAME_Barn,Barn,,Chuồng gia súc
@@ -1248,9 +1265,9 @@ SCENENAME_RuralStore,Rural Store,,Nhà kho Rural
 SCENENAME_TheOutdoors,The Outdoors,,Ngoài trời
 SCENENAME_Trailer,Trailer,,Toa xe
 SCENENAME_TrappersHomestead,Trapper's Cabin,,Nhà gỗ của người đặt bẫy
-SUBTITLE_AnkleSprain1,Damn it...sprained my ankle.,,
-SUBTITLE_AnkleSprain2,Oooh...that's sore.,,
-SUBTITLE_AnkleSprain3,That's going to slow things down...,,
+SUBTITLE_AnkleSprain1,Damn it...sprained my ankle.,,Chết tiệt...mắt cá chân của mình bị trật rồi.
+SUBTITLE_AnkleSprain2,Oooh...that's sore.,,Oooh...đau vãi.
+SUBTITLE_AnkleSprain3,That's going to slow things down...,,Điều này sẽ làm chậm đi mất..
 SUBTITLE_Atk1,[Attack grunt],,[Tiếng tấn công]
 SUBTITLE_Atk2,[Attack grunt],,[Tiếng tấn công]
 SUBTITLE_Atk3,[Attack grunt],,[Tiếng tấn công]
@@ -1322,38 +1339,38 @@ SUBTITLE_ConditionDehydrated8,Need a drink.,,Cần uống
 SUBTITLE_ConditionDehydrated9,Need… water.,,Cần...  nước. 
 SUBTITLE_ConditionEncumberanceHigh1,Too much to carry.,,Quá nhiều để mang.
 SUBTITLE_ConditionEncumberanceHigh2,I can't carry this any further.,,Mình không thể mang thêm thứ gì nữa.
-SUBTITLE_ConditionEncumberanceHigh3,I'm going to have leave some of this gear behind.,,
+SUBTITLE_ConditionEncumberanceHigh3,I'm going to have leave some of this gear behind.,,Mình sẽ để lại một số đồ ở phía sau.
 SUBTITLE_ConditionEncumberanceHigh4,Can't move.,,Không thể di chuyển. 
 SUBTITLE_ConditionEncumberanceHigh5,Too heavy. Can't move.,,Quá nặng. Không thể di chuyển. 
 SUBTITLE_ConditionEncumberanceLow1,This pack is getting kinda heavy.,,Cái túi này nặng thật
 SUBTITLE_ConditionEncumberanceLow2,I'm not sure I can carry much more.,,Mình không chắc có mang thêm được nữa không
-SUBTITLE_ConditionEncumberanceLow3,I wonder if I can drop any of this gear...,,
+SUBTITLE_ConditionEncumberanceLow3,I wonder if I can drop any of this gear...,,Băn khoăn rằng mình có thể bỏ thứ gì đó lại...
 SUBTITLE_ConditionEncumberanceLow4,Too heavy,,Quá nặng. 
-SUBTITLE_ConditionEncumberanceLow5,Too much stuff to carry.,,
-SUBTITLE_ConditionEncumberanceLow6,I might have to drop some gear.,,
+SUBTITLE_ConditionEncumberanceLow5,Too much stuff to carry.,,Quá nhiều thứ để mang theo.
+SUBTITLE_ConditionEncumberanceLow6,I might have to drop some gear.,,Mình phải bỏ lại vài thứ.
 SUBTITLE_ConditionEncumberanceLow7,I need to drop something.,,Mình cần vứt gí đó.
 SUBTITLE_ConditionEncumberanceLow8,I'm going to have to leave something behind.,,Mình sẽ bỏ lại thứ gì đó phía sau.
 SUBTITLE_ConditionEncumberanceLow9,Something's got to go.,,Một thứ gì đó phải được vứt đi.
 SUBTITLE_ConditionEncumberanceMedium1,I'm not going to be able to carry this load for much longer.,,Mình không thể mang nặng lâu hơn được nữa.
 SUBTITLE_ConditionEncumberanceMedium2,This pack is getting too heavy to carry.,,Túi này quá nặng để mang đi.
-SUBTITLE_ConditionEncumberanceMedium3,I can barely walk with this much gear.,,
-SUBTITLE_ConditionEncumberanceMedium4,All this gear is slowing me down.,,
-SUBTITLE_ConditionEncumberanceMedium5,This gear is starting to slow me down.,,
+SUBTITLE_ConditionEncumberanceMedium3,I can barely walk with this much gear.,,Mình chỉ có thể đi khi mang theo những thứ này.
+SUBTITLE_ConditionEncumberanceMedium4,All this gear is slowing me down.,,Toàn bộ đồ này đang làm mình chậm lại.
+SUBTITLE_ConditionEncumberanceMedium5,This gear is starting to slow me down.,,Thứ này bắt đầu làm mình chậm lại
 SUBTITLE_ConditionEncumberanceMedium6,Starting to weigh me down.,,Bắt đầu cân nặng đè bẹp mình.
-SUBTITLE_ConditionEncumberanceMedium7,Feels like a lot of gear.,,
+SUBTITLE_ConditionEncumberanceMedium7,Feels like a lot of gear.,,Cảm giác như là cả đống thứ vậy.
 SUBTITLE_ConditionFair1,I don't feel so good.,,Mình cảm thấy không được khỏe. 
-SUBTITLE_ConditionFair2,I'm not sure I'm going to make it.,,
+SUBTITLE_ConditionFair2,I'm not sure I'm going to make it.,,Không chắc là mình có thể làm được không.
 SUBTITLE_ConditionFair3,I'm not ready to die.,,Mình chưa sẵn sàng để chết. 
-SUBTITLE_ConditionFair4,I don't have much more in me.,,
-SUBTITLE_ConditionFair5,(Needs new line recorded),,
-SUBTITLE_ConditionFatigue1,If I don't rest soon I'm going to faint.,,
+SUBTITLE_ConditionFair4,I don't have much more in me.,,Mình không còn nhiều sức lực nữa.
+SUBTITLE_ConditionFair5,(Needs new line recorded),,(Needs new line recorded)
+SUBTITLE_ConditionFatigue1,If I don't rest soon I'm going to faint.,,"Nếu mình không nghỉ ngơi sớm, mình sẽ bị ngất."
 SUBTITLE_ConditionFatigue2,I think I need to lay down.,,Mình nghĩ cần phải nằm xuống.
 SUBTITLE_ConditionFatigue3,I need to find a place to rest.,,Mình cần phải tìm chỗ nghỉ ngơi.
 SUBTITLE_ConditionFatigue4,I'm going to need to rest soon.,,Mình cần phải nghỉ ngơi sớm.
 SUBTITLE_ConditionFatigue5,I just need to close my eyes.,,Mình chỉ cần chợp mắt chút.
 SUBTITLE_ConditionFatigueHigh1,So tired I could just lay down right here.,,"Quá mệt, mình có thể nằm xuống ngay tại đây."
 SUBTITLE_ConditionFatigueHigh2,I could lay down and have a little sleep right here.,,Mình có thể nằm xuống và làm một giấc ngay tại đây.
-SUBTITLE_ConditionFatigueHigh3,I'd lay down right here if I ever thought I'd wake up again.,,
+SUBTITLE_ConditionFatigueHigh3,I'd lay down right here if I ever thought I'd wake up again.,,Mình sẽ nằm xuống đây nếu như nghĩ rằng mình sẽ thức dậy lần nữa.
 SUBTITLE_ConditionFatigueHigh4,I'm so tired.,,Mình đã khá mệt. 
 SUBTITLE_ConditionFatigueHigh5,I'm too tired to think straight.,,Quá mệt để suy nghĩ.
 SUBTITLE_ConditionFreezing1,Damn...I'm freezing.,,Chết tiệt... Mình lạnh cóng rồi. 
@@ -1368,7 +1385,7 @@ SUBTITLE_ConditionPoor1,Things are starting to look pretty grim.,,Mọi thứ b�
 SUBTITLE_ConditionPoor2,I think this might be the end.,,Mình nghĩ đây sẽ là dấu chấm hết.
 SUBTITLE_ConditionPoor3,I'm going to die out here.,,Mình sẽ chết ở đây.
 SUBTITLE_ConditionPoor4,Not going to pull through this time...,,Lần này sẽ không qua khỏi...
-SUBTITLE_ConditionPoor5,In the end...did any of it really matter?,,
+SUBTITLE_ConditionPoor5,In the end...did any of it really matter?,,Vào lúc kết thúc...liệu những điều này còn là vấn đề không?
 SUBTITLE_ConditionStarving1,Where can I find something to eat?,,Ở đâu mình có thể thấy đồ ăn?
 SUBTITLE_ConditionStarving10,Need something to eat.,,Cần ăn gì đó.
 SUBTITLE_ConditionStarving11,Gotta eat soon.,,Phải ăn sớm.
@@ -1408,8 +1425,8 @@ SUBTITLE_Die2,[Moan],,[Tiếng rên]
 SUBTITLE_Die3,[Moan],,[Tiếng rên]
 SUBTITLE_Die4,[Moan],,[Tiếng rên]
 SUBTITLE_Dysentery1,Oh this is a shitty way to die...,,Oh đây là cách chết tiệt đểo nghẻo...
-SUBTITLE_Dysentery2,Oh man...of all the ways to die...this is the worst...,,
-SUBTITLE_Dysentery3,Oh boy...it feels like my stomach is burning...,,
+SUBTITLE_Dysentery2,Oh man...of all the ways to die...this is the worst...,,Oh man...trong các cách để chết...thì đây là cách tồi tệ nhất...
+SUBTITLE_Dysentery3,Oh boy...it feels like my stomach is burning...,,Oh boy...bụng của mình đang sôi lên đây này.
 SUBTITLE_ExertionHigh1,[Heavy exertion grunt],,[Tiếng gắng sức to]
 SUBTITLE_ExertionHigh2,[Heavy exertion grunt],,[Tiếng gắng sức to]
 SUBTITLE_ExertionHigh3,[Heavy exertion grunt],,[Tiếng gắng sức to]
@@ -1427,9 +1444,9 @@ SUBTITLE_FailGeneral2,That didn't work.,,Nó không đươc rồi.
 SUBTITLE_FailGeneral3,Why didn't that work?,,Tại sao không được? 
 SUBTITLE_FailGeneral4,Come on...come on...,,Thôi nào... làm ơn.
 SUBTITLE_FailGeneral5,Oh come on...,,Thôi nào. 
-SUBTITLE_FemaleAnkleSprain1,Damn it...sprained my ankle.,,
-SUBTITLE_FemaleAnkleSprain2,Oooh...that's sore.,,
-SUBTITLE_FemaleAnkleSprain3,That's going to slow things down...,,
+SUBTITLE_FemaleAnkleSprain1,Damn it...sprained my ankle.,,Chết tiệt...mắt cá chân của mình bị trật rồi.
+SUBTITLE_FemaleAnkleSprain2,Oooh...that's sore.,,Oooh...Đau vãi.
+SUBTITLE_FemaleAnkleSprain3,That's going to slow things down...,,Nó sẽ làm chậm đi mất...
 SUBTITLE_FemaleAtk1,[Attack grunt],,[Tiếng tấn công]
 SUBTITLE_FemaleAtk2,[Attack grunt],,[Tiếng tấn công]
 SUBTITLE_FemaleAtk3,[Attack grunt],,[Tiếng tấn công]
@@ -1485,14 +1502,14 @@ SUBTITLE_FemaleCatchBreath2,[Gasp],,[Tiếng mệt mỏi]
 SUBTITLE_FemaleCatchBreath3,[Gasp],,[Tiếng mệt mỏi]
 SUBTITLE_FemaleCatchBreath4,[Gasp],,[Tiếng mệt mỏi]
 SUBTITLE_FemaleCatchBreath5,[Gasp],,[Tiếng mệt mỏi]
-SUBTITLE_FemaleCombatAnimalGrappling1,Get away you mother...,,
+SUBTITLE_FemaleCombatAnimalGrappling1,Get away you mother...,,Biến chỗ khác thằng khốn...
 SUBTITLE_FemaleCombatAnimalGrappling2,You're gonna die!!!!!,,Mày sẽ phải chết!!!!
 SUBTITLE_FemaleCombatAnimalGrappling3,I'm gonna to kill you and eat you ya bastard!!,,Tao sẽ giết và ăn thịt mày đồ khốn!!
 SUBTITLE_FemaleCombatAnimalGrappling4,Let go of me!!!,,Để tao yên!!!
 SUBTITLE_FemaleCombatAnimalGrappling5,It's not gonna be that easy for you!!,,Thật không dễ dàng cho mày chút nào!!!
 SUBTITLE_FemaleCombatAnimalGrappling6,You're gonna have to do better than that!!,,Mày phải làm tốt hơn thế nữa!!
-SUBTITLE_FemaleCombatAnimalGrappling7,[Extertion grunts],,
-SUBTITLE_FemaleCombatAnimalGrappling8,[Extertion grunts],,
+SUBTITLE_FemaleCombatAnimalGrappling7,[Extertion grunts],,[Tiếng cố sức]
+SUBTITLE_FemaleCombatAnimalGrappling8,[Extertion grunts],,[Tiếng cố sức]
 SUBTITLE_FemaleConditionDehydrated1,My tongue feels like sandpaper.,,Mình của mình giờ như giấy nhám.
 SUBTITLE_FemaleConditionDehydrated10,I would drink just about anything right now.,,Mình sẽ uống bất cứ thứ gì ngay bây giờ
 SUBTITLE_FemaleConditionDehydrated2,Mouth...so dry.,,Miệng khô quá.
@@ -1505,16 +1522,16 @@ SUBTITLE_FemaleConditionDehydrated8,"I need somethink to drink, and soon.",,Mìn
 SUBTITLE_FemaleConditionDehydrated9,I'll die if I don't drink something soon.,,Mình sẽ chết nếu như không uống gì đó.
 SUBTITLE_FemaleConditionEncumberanceHigh1,Too much to carry.,,Quá nhiều thứ để mang.
 SUBTITLE_FemaleConditionEncumberanceHigh2,I can't carry this any further.,,Mình không thể mang thêm nữa.
-SUBTITLE_FemaleConditionEncumberanceHigh3,I'm going to have leave some of this gear behind.,,
+SUBTITLE_FemaleConditionEncumberanceHigh3,I'm going to have leave some of this gear behind.,,Mình sẽ bỏ lại một số thứ lại đằng sau.
 SUBTITLE_FemaleConditionEncumberanceLow1,This pack is getting kinda heavy.,,Túi này đang khá nặng.
 SUBTITLE_FemaleConditionEncumberanceLow2,I'm not sure I can carry much more.,,Mình không chắc là mình có thể mang thêm nữa.
-SUBTITLE_FemaleConditionEncumberanceLow3,I wonder if I can drop any of this gear...,,
-SUBTITLE_FemaleConditionEncumberanceMedium1,I'm not going to be able to carry this load for much longer.,,
-SUBTITLE_FemaleConditionEncumberanceMedium2,This pack is getting too heavy to carry.,,
-SUBTITLE_FemaleConditionEncumberanceMedium3,I can barely walk with this much gear.,,
+SUBTITLE_FemaleConditionEncumberanceLow3,I wonder if I can drop any of this gear...,,Mình băn khoăn nên bỏ lại thứ gì...
+SUBTITLE_FemaleConditionEncumberanceMedium1,I'm not going to be able to carry this load for much longer.,,Mình sẽ không thể mang những thứ này lâu hơn được nữa.
+SUBTITLE_FemaleConditionEncumberanceMedium2,This pack is getting too heavy to carry.,,Cái gói đồ này đang trở nên quá nặng để mang.
+SUBTITLE_FemaleConditionEncumberanceMedium3,I can barely walk with this much gear.,,Mình chỉ có thể đi bộ khi mang theo những thứ đồ này.
 SUBTITLE_FemaleConditionFair1,I don't feel so good.,,Mình cảm thấy không tốt.
 SUBTITLE_FemaleConditionFair2,I'm not sure I'm going to make it.,,Mình không chắc thứ mình đang làm.
-SUBTITLE_FemaleConditionFair3,Things are starting to look pretty grim.,,
+SUBTITLE_FemaleConditionFair3,Things are starting to look pretty grim.,,Mọi thứ đang trờ nên khá ảm đạm.
 SUBTITLE_FemaleConditionFair4,I'm not ready to die.,,Mình chưa sẵn sàng để chết
 SUBTITLE_FemaleConditionFair5,(Needs new line recorded),,(Needs new line recorded)
 SUBTITLE_FemaleConditionFatigue1,If I don't rest soon I'm going to faint.,,Nếu không nghỉ ngơi sớm thì mình sẽ ngất.
@@ -1522,10 +1539,10 @@ SUBTITLE_FemaleConditionFatigue2,I think I need to lay down.,,Mình nghĩ mình 
 SUBTITLE_FemaleConditionFatigue3,I need to find a place to rest.,,Mình cần tìm chỗ để nghỉ ngơi.
 SUBTITLE_FemaleConditionFatigue4,I'm going to need to rest soon.,,Mình cần đến nghỉ ngơi sớm.
 SUBTITLE_FemaleConditionFatigue5,Getting tired.,,Bắt đầu mệt mỏi.
-SUBTITLE_FemaleConditionFatigueHigh1,So tired I could just lay down right here.,,
-SUBTITLE_FemaleConditionFatigueHigh2,I could lay down and have a little sleep right here.,,
-SUBTITLE_FemaleConditionFatigueHigh3,I just need to close my eyes.,,
-SUBTITLE_FemaleConditionFatigueHigh4,I'd lay down right here if I ever thought I'd wake up again.,,
+SUBTITLE_FemaleConditionFatigueHigh1,So tired I could just lay down right here.,,"Quá mệt mỏi, mình chỉ có thể nằm xuống tại đây."
+SUBTITLE_FemaleConditionFatigueHigh2,I could lay down and have a little sleep right here.,,Mình có thể nằm xuống và chợt mắt một tý tại đây.
+SUBTITLE_FemaleConditionFatigueHigh3,I just need to close my eyes.,,Mình chỉ cần nhắm mắt lại.
+SUBTITLE_FemaleConditionFatigueHigh4,I'd lay down right here if I ever thought I'd wake up again.,,Mình sẽ nằm xuống đây nếu như nghĩ rằng mình sẽ thức dậy lần nữa.
 SUBTITLE_FemaleConditionFatigueHigh5,So… tired…,,Rất... mệt...
 SUBTITLE_FemaleConditionFatigueHigh6,"Man, I am too tired to think straight.",,"Mèn ơi, mình quá mệt để suy nghĩ thông suốt."
 SUBTITLE_FemaleConditionFreezing1,Damn...I'm freezing.,,Chết tiệt... mình đang cóng.
@@ -1535,49 +1552,49 @@ SUBTITLE_FemaleConditionFreezing4,I've never felt so cold in my life.,,Mình ch�
 SUBTITLE_FemaleConditionFreezing5,I'm too cold to think.,,Quá lạnh để suy nghĩ.
 SUBTITLE_FemaleConditionFreezing6,I'll die if I don't warm up soon.,,Sẽ chết nếu mình không làm ấm sớm.
 SUBTITLE_FemaleConditionFreezing7,I'm so cold...just want to lay down for a bit...,,Mình rét... chỉ muốn nằm xuống một chút...
-SUBTITLE_FemaleConditionFreezing8,Wait...I'm so cold I'm warming up a bit.,,
-SUBTITLE_FemaleConditionPoor1,I think this might be the end.,,
-SUBTITLE_FemaleConditionPoor2,I'm going to die out here.,,
-SUBTITLE_FemaleConditionPoor3,Things are starting to look pretty grim.,,
-SUBTITLE_FemaleConditionPoor4,Not going to pull through this time...,,
-SUBTITLE_FemaleConditionPoor5,In the end...did any of it really matter?,,
+SUBTITLE_FemaleConditionFreezing8,Wait...I'm so cold I'm warming up a bit.,,"Khoan đã...Người mình lạnh quá, mình đang làm ấm lên một tý."
+SUBTITLE_FemaleConditionPoor1,I think this might be the end.,,Mình nghĩ đây là điểm kết thúc.
+SUBTITLE_FemaleConditionPoor2,I'm going to die out here.,,Mình sẽ chết ở ngoài này.
+SUBTITLE_FemaleConditionPoor3,Things are starting to look pretty grim.,,Mọi thứ đang trở nên khá ảm đạm.
+SUBTITLE_FemaleConditionPoor4,Not going to pull through this time...,,Sẽ không thể qua khỏi thời điểm này.
+SUBTITLE_FemaleConditionPoor5,In the end...did any of it really matter?,,Vào lúc kết thúc...liệu những điều này còn là vấn đề không?
 SUBTITLE_FemaleConditionStarving1,Dammit...so hungry.,,Chiết tiệt... đói quá.
 SUBTITLE_FemaleConditionStarving10,Where can I find something to eat?,,Ở đâu giúp mình tìm thấy đồ ăn?
 SUBTITLE_FemaleConditionStarving2,I'll die if I don't get some food soon.,,Mình sẽ chết nếu như không ăn gì đó sớm.
 SUBTITLE_FemaleConditionStarving3,Getting weak...,,Bắt đầu thấy yếu...
 SUBTITLE_FemaleConditionStarving4,I'm so hungry.,,Mình đói quá.
 SUBTITLE_FemaleConditionStarving5,Need something to eat.,,Cần ăn thứ gì đó.
-SUBTITLE_FemaleConditionStarving6,My stomach feels like an empty pit...,,
+SUBTITLE_FemaleConditionStarving6,My stomach feels like an empty pit...,,Bao tử mình trống rỗng.
 SUBTITLE_FemaleConditionStarving7,Gotta eat soon.,,Phải ăn gì đó.
-SUBTITLE_FemaleConditionStarving8,Never thought I'd be dying from starvation.,,
-SUBTITLE_FemaleConditionStarving9,I think my stomach is eating itself.,,
-SUBTITLE_FemaleConditionVeryCold1,My fingers feel numb.,,
-SUBTITLE_FemaleConditionVeryCold10,Jesus it's cold.,,
-SUBTITLE_FemaleConditionVeryCold2,The cold is making my head feel thick...,,
-SUBTITLE_FemaleConditionVeryCold3,I need to find some place to escape this cold.,,
+SUBTITLE_FemaleConditionStarving8,Never thought I'd be dying from starvation.,,Không thể tin được rằng mình sẽ chết vì đói.
+SUBTITLE_FemaleConditionStarving9,I think my stomach is eating itself.,,Bao tử của mình trống rỗng.
+SUBTITLE_FemaleConditionVeryCold1,My fingers feel numb.,,Các ngón tay tê cứng.
+SUBTITLE_FemaleConditionVeryCold10,Jesus it's cold.,,Chúa ơi lạnh quá.
+SUBTITLE_FemaleConditionVeryCold2,The cold is making my head feel thick...,,Cái lạnh khiến cho đầu mình đặc cứng.
+SUBTITLE_FemaleConditionVeryCold3,I need to find some place to escape this cold.,,Mình phải kiếm chỗ nào đó để tránh cái lạnh này.
 SUBTITLE_FemaleConditionVeryCold4,I can't feel my feet.,,Mình không cảm nhận được chân nữa
 SUBTITLE_FemaleConditionVeryCold5,I can't feel my hands.,,Mình không cảm nhận được tay nữa
 SUBTITLE_FemaleConditionVeryCold6,Sure getting cold...,,Chắc chắn đang cóng...
 SUBTITLE_FemaleConditionVeryCold7,Starting to feel numb.,,Bắt đầu thấy tê liệt.
 SUBTITLE_FemaleConditionVeryCold8,Gotta warm up somehow.,,Phải làm ấm lên bằng cách nào đó.
-SUBTITLE_FemaleConditionVeryCold9,"Did I say I hate being cold, because I really do!",,
-SUBTITLE_FemaleConditionVeryHungry1,I could eat anything right now.,,
-SUBTITLE_FemaleConditionVeryHungry10,"Arrgh, I'm starving.",,
-SUBTITLE_FemaleConditionVeryHungry2,I've never been so hungry in my life.,,
-SUBTITLE_FemaleConditionVeryHungry3,Can you eat trees?,,
-SUBTITLE_FemaleConditionVeryHungry4,All I can think about is food.,,
-SUBTITLE_FemaleConditionVeryHungry5,I need to find food.,,Mình cần tìm thức ăn sớm.
-SUBTITLE_FemaleConditionVeryHungry6,I'm going to need to eat soon.,,
+SUBTITLE_FemaleConditionVeryCold9,"Did I say I hate being cold, because I really do!",,"Mình có nói rằng ghét bị lạnh không, bởi vì đúng là như vậy!"
+SUBTITLE_FemaleConditionVeryHungry1,I could eat anything right now.,,Bây giờ mình có thể ăn bất kỳ thứ gì.
+SUBTITLE_FemaleConditionVeryHungry10,"Arrgh, I'm starving.",,"Arrgh, mình đói bụng quá."
+SUBTITLE_FemaleConditionVeryHungry2,I've never been so hungry in my life.,,Mình chưa bao giờ đói bụng đến mức như vậy.
+SUBTITLE_FemaleConditionVeryHungry3,Can you eat trees?,,Mình có thể ăn những cái cây này không?
+SUBTITLE_FemaleConditionVeryHungry4,All I can think about is food.,,Tất cả mọi thứ mình nghĩ đến là đồ ăn.
+SUBTITLE_FemaleConditionVeryHungry5,I need to find food.,,Mình cần tìm thức ăn.
+SUBTITLE_FemaleConditionVeryHungry6,I'm going to need to eat soon.,,Mình sẽ cần phải ăn sớm
 SUBTITLE_FemaleConditionVeryHungry7,I could eat anything.,,Mình có thể ăn bất cứ thứ gì.
 SUBTITLE_FemaleConditionVeryHungry8,I could eat a horse.,,Mình có thể ăn một con ngựa.
 SUBTITLE_FemaleConditionVeryHungry9,I'd eat anything right about now.,,Bây giờ mình muốn ăn bất cứ thứ gì.
 SUBTITLE_FemaleConditionVeryThirsty1,I would drink almost anything about now.,,Bây giờ mình muốn uống bất cứ thứ gì.
-SUBTITLE_FemaleConditionVeryThirsty2,"Surrounded by snow, and nothing to drink...",,
+SUBTITLE_FemaleConditionVeryThirsty2,"Surrounded by snow, and nothing to drink...",,"Xung quanh chỉ tuyết, và không có gì để uống."
 SUBTITLE_FemaleConditionVeryThirsty3,I'd eat snow if the hypothermia wouldn't kill me.,,Sẽ ăn cả tuyết nếu như hạ thân nhiệt không giết chết mình.
-SUBTITLE_FemaleConditionVeryThirsty4,That guy who drank his own pee doesn't seem so crazy right now...,,
-SUBTITLE_FemaleConditionVeryThirsty5,I would do anything for a drink right now.,,
-SUBTITLE_FemaleConditionVeryThirsty6,"Man, I could use a drink.",,
-SUBTITLE_FemaleConditionVeryThirsty7,Getting a bit thirsty.,,
+SUBTITLE_FemaleConditionVeryThirsty4,That guy who drank his own pee doesn't seem so crazy right now...,,Cái gã đã uống nước tiểu của chính mình có vẻ như không bị điên vào lúc này.
+SUBTITLE_FemaleConditionVeryThirsty5,I would do anything for a drink right now.,,Tôi sẽ làm bất kỳ thứ gì để đổi lấy một ngụm nước ngay lúc này.
+SUBTITLE_FemaleConditionVeryThirsty6,"Man, I could use a drink.",,"Man, mình có thể uống một ngụm nước được không."
+SUBTITLE_FemaleConditionVeryThirsty7,Getting a bit thirsty.,,Bắt đầu hơi khát nước rồi đấy.
 SUBTITLE_FemaleDeathScream1,[Scream],,[Tiếng thét]
 SUBTITLE_FemaleDeathScream2,[Scream],,[Tiếng thét]
 SUBTITLE_FemaleDeathScream3,[Scream],,[Tiếng thét]
@@ -1586,8 +1603,8 @@ SUBTITLE_FemaleDie2,[Moan],,[Tiếng rên]
 SUBTITLE_FemaleDie3,[Moan],,[Tiếng rên]
 SUBTITLE_FemaleDie4,[Moan],,[Tiếng rên]
 SUBTITLE_FemaleDysentery1,Oh this is a shitty way to die...,,Oh đây là một cách chiết tiệt để nghẻo.
-SUBTITLE_FemaleDysentery2,Oh man...of all the ways to die...this is the worst...,,
-SUBTITLE_FemaleDysentery3,Oh boy...it feels like my stomach is burning...,,
+SUBTITLE_FemaleDysentery2,Oh man...of all the ways to die...this is the worst...,,Oh man...trong các cách để chết...thì đây là cách tồi tệ nhất...
+SUBTITLE_FemaleDysentery3,Oh boy...it feels like my stomach is burning...,,Oh boy...Bao tử tôi đang sôi lên đây này...
 SUBTITLE_FemaleExertionHigh1,[Heavy exertion grunt],,[Tiếng gắng sức to]
 SUBTITLE_FemaleExertionHigh2,[Heavy exertion grunt],,[Tiếng gắng sức to]
 SUBTITLE_FemaleExertionHigh3,[Heavy exertion grunt],,[Tiếng gắng sức to]
@@ -1608,9 +1625,9 @@ SUBTITLE_FemaleFailGeneral2,That didn't work.,,Nó không đươc rồi.
 SUBTITLE_FemaleFailGeneral3,Why didn't that work?,,Tại sao không được? 
 SUBTITLE_FemaleFailGeneral4,Come on...come on...,,Thôi nào... làm ơn. 
 SUBTITLE_FemaleFailGeneral5,Oh come on...,,Thôi nào. 
-SUBTITLE_FemaleFoodPoisoning1,Ooooohh...I feel like I'm going to die...,,
-SUBTITLE_FemaleFoodPoisoning2,Oh what a way to die...I just want to die...,,
-SUBTITLE_FemaleFoodPoisoning3,My stomach...it hurts...oh it hurts...,,
+SUBTITLE_FemaleFoodPoisoning1,Ooooohh...I feel like I'm going to die...,,Oooooh... cảm thấy như mình sắp chết.
+SUBTITLE_FemaleFoodPoisoning2,Oh what a way to die...I just want to die...,,Oh làm thế nào để được chết...mình chỉ muốn được chết...
+SUBTITLE_FemaleFoodPoisoning3,My stomach...it hurts...oh it hurts...,,Bao tử của mình...đau quá...oh nó đau quá...
 SUBTITLE_FemaleHit1,[Pain grunt],,[Tiếng kêu đau]
 SUBTITLE_FemaleHit2,[Pain grunt],,[Tiếng kêu đau]
 SUBTITLE_FemaleHit3,[Pain grunt],,[Tiếng kêu đau]
@@ -1635,10 +1652,10 @@ SUBTITLE_FemaleInjuredMedium3,[Pain grunts],,[Tiếng kêu đau]
 SUBTITLE_FemaleInjuredMedium4,[Pain grunts],,[Tiếng kêu đau]
 SUBTITLE_FemaleInjuredMedium5,[Pain grunts],,[Tiếng kêu đau]
 SUBTITLE_FemaleInjuredMedium6,[Pain grunts],,[Tiếng kêu đau]
-SUBTITLE_FemaleInspectObject1,This stuff will come in handy.,,
-SUBTITLE_FemaleInspectObject2,This'll come in handy.,,
-SUBTITLE_FemaleInspectObject3,Best be prepared for anything.,,
-SUBTITLE_FemaleInspectObject4,"Never know, could end up being useful.",,
+SUBTITLE_FemaleInspectObject1,This stuff will come in handy.,,Những thứ này sẽ có ích.
+SUBTITLE_FemaleInspectObject2,This'll come in handy.,,Điều này sẽ có ích.
+SUBTITLE_FemaleInspectObject3,Best be prepared for anything.,,Tốt nhất là hãy chuẩn bị mọi thứ.
+SUBTITLE_FemaleInspectObject4,"Never know, could end up being useful.",,"Không biết trước được điều gì, có thể hữu dụng vào khúc cuối."
 SUBTITLE_FemaleInspectObject5,I think I can use this.,,Mình nghỉ có thể sử dụng nó
 SUBTITLE_FemaleInspectObject6,Hmmm...ok.,,Hmmm...ok.
 SUBTITLE_FemaleInspectObject7,Probably useful.,,Có thể có ích.
@@ -1654,7 +1671,7 @@ SUBTITLE_FemaleLandMedium1,[Medium grunt],,[Tiếng động vừa]
 SUBTITLE_FemaleLandMedium2,[Medium grunt],,[Tiếng động vừa]
 SUBTITLE_FemaleLandMedium3,[Medium grunt],,[Tiếng động vừa]
 SUBTITLE_FemaleLandMedium4,[Medium grunt],,[Tiếng động vừa]
-SUBTITLE_FemaleOpenContainer1,Never would have thought to look here.,,
+SUBTITLE_FemaleOpenContainer1,Never would have thought to look here.,,Không bao nghĩ rằng sẽ nhìn vào đây.
 SUBTITLE_FemaleOpenContainer10,Thank you!,,Cảm ơn!
 SUBTITLE_FemaleOpenContainer11,Perfect!,,Hoàn hảo!
 SUBTITLE_FemaleOpenContainer2,What have we here?,,Chúng ta có gì ở đây?
@@ -1665,17 +1682,17 @@ SUBTITLE_FemaleOpenContainer6,Wonder if the owner's around.,,Ttự hỏi nếu c
 SUBTITLE_FemaleOpenContainer7,Looks like this has been here a while.,,Trông có vẻ nó ở đây được một thời gian rồi.
 SUBTITLE_FemaleOpenContainer8,I could use this.,,Mình có thể sử dụng thứ này.
 SUBTITLE_FemaleOpenContainer9,Oh lucky day.,,Oh ngày may mắn.
-SUBTITLE_FemaleTODDawn1,Looks like I made it through another night.,,
-SUBTITLE_FemaleTODDawn3,Thank goodness...made it through another night.,,
-SUBTITLE_FemaleTODDawn4,Looks like a new day is dawning.,,
-SUBTITLE_FemaleTODDawn5,What do you know. Looks like I survived another night.,,
+SUBTITLE_FemaleTODDawn1,Looks like I made it through another night.,,Có vẻ như mình sẽ sống thêm một đêm nữa.
+SUBTITLE_FemaleTODDawn3,Thank goodness...made it through another night.,,Cảm ơn trời...vì đã sống qua được một đêm nữa.
+SUBTITLE_FemaleTODDawn4,Looks like a new day is dawning.,,Có vẻ như một ngày mới đang kết thúc.
+SUBTITLE_FemaleTODDawn5,What do you know. Looks like I survived another night.,,Ban biết gì không. Có vẻ như tôi sống được thêm một đêm nữa.
 SUBTITLE_FemaleTODNight1,Feels like night is coming.,,Cảm giác như màn đêm đang xuống.
-SUBTITLE_FemaleTODNight2,It's dusk so night can't be far behind.,,
-SUBTITLE_FemaleTODNight3,It's getting dark out here. Time to look for shelter.,,
-SUBTITLE_FemaleTODNight4,The sun is setting. It's going to get a lot colder soon.,,
-SUBTITLE_FoodPoisoning1,Ooooohh...I feel like I'm going to die...,,
-SUBTITLE_FoodPoisoning2,Oh what a way to die...I just want to die...,,
-SUBTITLE_FoodPoisoning3,My stomach...it hurts...oh it hurts...,,
+SUBTITLE_FemaleTODNight2,It's dusk so night can't be far behind.,,Trời sắp chuyển tối.
+SUBTITLE_FemaleTODNight3,It's getting dark out here. Time to look for shelter.,,Trời đang chuyển tối. Đến lúc để kiếm chỗ trú rồi.
+SUBTITLE_FemaleTODNight4,The sun is setting. It's going to get a lot colder soon.,,Mặt trời đang lặn. Trời sẽ trở lạnh nhanh chóng.
+SUBTITLE_FoodPoisoning1,Ooooohh...I feel like I'm going to die...,,Oooooohh... cảm thấy mình sắp chết.
+SUBTITLE_FoodPoisoning2,Oh what a way to die...I just want to die...,,Oh làm thế nào để được chết...mình chỉ muốn được chết...
+SUBTITLE_FoodPoisoning3,My stomach...it hurts...oh it hurts...,,Bao tử của mình...đau quá...oh nó đau quá...
 SUBTITLE_Hit1,[Pain grunt],,[Tiếng kêu đau]
 SUBTITLE_Hit2,[Pain grunt],,[Tiếng kêu đau]
 SUBTITLE_Hit3,[Pain grunt],,[Tiếng kêu đau]
@@ -1687,23 +1704,23 @@ SUBTITLE_InjuredHigh3,[Pain grunts],,[Tiếng kêu đau]
 SUBTITLE_InjuredHigh4,[Pain grunts],,[Tiếng kêu đau]
 SUBTITLE_InjuredHigh5,[Pain grunts],,[Tiếng kêu đau]
 SUBTITLE_InjuredHigh6,[Pain grunts],,[Tiếng kêu đau]
-SUBTITLE_InjuredLow1,Hurts a bit but I'll make it.,,
-SUBTITLE_InjuredLow2,That smarts a bit.,,
+SUBTITLE_InjuredLow1,Hurts a bit but I'll make it.,,Hơi đau nhưng không sao.
+SUBTITLE_InjuredLow2,That smarts a bit.,,Khá là thông minh.
 SUBTITLE_InjuredLow3,[Pain grunts],,[Tiếng kêu đau]
 SUBTITLE_InjuredLow4,[Pain grunts],,[Tiếng kêu đau]
 SUBTITLE_InjuredLow5,[Pain grunts],,[Tiếng kêu đau]
 SUBTITLE_InjuredLow6,[Pain grunts],,[Tiếng kêu đau]
-SUBTITLE_InjuredLow7,"I'm going to need some first aid, soon. ",,
-SUBTITLE_InjuredMedium1,Damn...that hurts.,,
-SUBTITLE_InjuredMedium2,Wow...that hurts a lot.,,
+SUBTITLE_InjuredLow7,"I'm going to need some first aid, soon. ",,Mình sẽ cần được trị thương sớm.
+SUBTITLE_InjuredMedium1,Damn...that hurts.,,Chết tiệt...đau quá.
+SUBTITLE_InjuredMedium2,Wow...that hurts a lot.,,Wow... khá đau đấy.
 SUBTITLE_InjuredMedium3,[Pain grunts],,[Tiếng kêu đau]
 SUBTITLE_InjuredMedium4,[Pain grunts],,[Tiếng kêu đau]
 SUBTITLE_InjuredMedium5,[Pain grunts],,[Tiếng kêu đau]
 SUBTITLE_InjuredMedium6,[Pain grunts],,[Tiếng kêu đau]
-SUBTITLE_InspectObject1,That'll come in handy.,,
+SUBTITLE_InspectObject1,That'll come in handy.,,Nó sẽ có ích.
 SUBTITLE_InspectObject2,What have we here?,,Chúng ta có gì ở đây?
-SUBTITLE_InspectObject3,Hope nobody needs this anymore.,,
-SUBTITLE_InspectObject4,Looks like this has been here a while.,,
+SUBTITLE_InspectObject3,Hope nobody needs this anymore.,,Hi vọng không ai cần đến nó nữa.
+SUBTITLE_InspectObject4,Looks like this has been here a while.,,Có vẻ nó đã ở đây được một thời gian.
 SUBTITLE_InspectObject5,I could use this.,,Mình có thể tận dụng nó. 
 SUBTITLE_LandHard1,[Hard grunt],,[Tiếng động lớn] 
 SUBTITLE_LandHard2,[Hard grunt],,[Tiếng động lớn] 
@@ -1716,9 +1733,9 @@ SUBTITLE_LandMedium1,[Medium grunt],,[Tiếng động vừa]
 SUBTITLE_LandMedium2,[Medium grunt],,[Tiếng động vừa] 
 SUBTITLE_LandMedium3,[Medium grunt],,[Tiếng động vừa] 
 SUBTITLE_LandMedium4,[Medium grunt],,[Tiếng động vừa] 
-SUBTITLE_OpenContainer1,There's gotta be something useful in here.,,
-SUBTITLE_OpenContainer2,Where's the good stuff?,,
-SUBTITLE_OpenContainer3,Never would have thought to look here.,,
+SUBTITLE_OpenContainer1,There's gotta be something useful in here.,,Phải có thứ gì đó hữu ích ở đây.
+SUBTITLE_OpenContainer2,Where's the good stuff?,,Những vật dụng tốt ở đâu?
+SUBTITLE_OpenContainer3,Never would have thought to look here.,,Không bao giờ nghĩ rằng sẽ nhìn vào đây.
 SUBTITLE_OpenContainer4,"Ah, someone's stash.",,"Ah, chỗ cất giấu của một ai đó."
 SUBTITLE_OpenContainer5,I wonder who owns this stuff?,,Mình tự hỏi những thứ này là của ai?
 SUBTITLE_OpenContainer6,I wonder if the owner's around?,,Mình tự hỏi nếu chủ của nó ở gần dây thì sao nhỉ?
@@ -1727,7 +1744,7 @@ SUBTITLE_TODDawn2,Thank goodness...made it through another night.,,Tạ ơn chú
 SUBTITLE_TODDawn3,Looks like a new day is dawning.,,Một ngày mới bắt đầu.
 SUBTITLE_TODDawn4,Looks like I survived another night.,,Hình như mình sống qua một đêm nữa.
 SUBTITLE_TODNight1,Feels like night is coming.,,Cảm giác như màn đêm đang đến.
-SUBTITLE_TODNight2,It's dusk so night can't be far behind.,,
+SUBTITLE_TODNight2,It's dusk so night can't be far behind.,,Trời bắt đầu chuyển tối.
 SUBTITLE_TODNight3,It's getting dark out here. Time to look for shelter.,,Ở đây bắt đầu tối rồi. Cần phải tìm chỗ nương thân ngay.
 SUBTITLE_TODNight4,The sun is setting. It's going to get a lot colder soon.,,Mặt trời đang lặn. Sẽ phải chuẩn bị đón cái giá rét đây.
 GAMEPLAY_CattailPlantDescription,"The Cat Tail's head can be used as tinder. Its stalk is tough, not very filling, but edible...!",,"Ngọn cỏ đuôi mèo có thể sử dụng như vật bắt lửa. Thân cỏ thì dai, ăn được nhưng không no...!"
@@ -1792,7 +1809,7 @@ GAMEPLAY_Required,required,,yêu cầu
 GAMEPLAY_CannotCraftWithoutRequiredTool,Cannot craft item without a required tool,,Không thể chế đồ mà không có công cụ yêu cầu
 GAMEPLAY_BrokenArrow,Broken Arrow,,Mũi tên gãy
 GAMEPLAY_BrokenArrowDescription,A broken arrow. The arrow-head and some of the feathers may be salvageable.,,Một mũi tên gãy. Đầu mũi tên với lông quạ vẫn còn tận dụng được.
-GAMEPLAY_Unload,Unload,as in: unload ammo from a gun,
+GAMEPLAY_Unload,Unload,as in: unload ammo from a gun,Lấy đạn ra
 GAMEPLAY_GunDescEmpty,The gun is not currently loaded.,,Súng chưa được nạp đạn.
 GAMEPLAY_GunDescLoadedRound,The gun has {num-rounds} round loaded.,,Súng đã được nạp {num-rounds} viên đạn.
 GAMEPLAY_GunDescLoadedRounds,The gun has {num-rounds} rounds loaded.,,Súng đã được nạp {num-rounds} viên đạn.
@@ -1845,7 +1862,7 @@ Còn đây có thể là dòng chữ thứ hai"
 GAMEPLAY_LitFlareNoStore,A lit flare cannot be stored,,Pháo sáng đã cháy không thể cất
 GAMEPLAY_AnyFeedback,"For feedback and help, visit[FFFF00] www.hinterlandforums.com[-]",,Mọi chi tiết xin liên hệ [FFFF00]FB.COM/XKVNN[-]
 SCENENAME_WhalingShip,Whaling Ship,"Rusted, old, whaling ship",Tàu bắt cá voi
-GAMEPLAY_Ship,Ship,Ship you can enter,
+GAMEPLAY_Ship,Ship,Ship you can enter,Thuyền
 GAMEPLAY_NoItemsOfTypeInventory,No items of this type in Inventory,,Không có đồ vật nào thuộc loại này
 GAMEPLAY_NoItemsOfTypeContainer,No items of this type in Container,,Không có đồ vật nào thuộc loại này
 GAMEPLAY_NoItemsInventory,No items in Inventory,,Không có đồ vật nào
@@ -1862,19 +1879,25 @@ GAMEPLAY_CoastalHighwayDescriptionLocked,Explore the world to find the route tha
 GAMEPLAY_PleasantValleyDescriptionLocked,Explore the world to find the route that leads to this region!,``,Khám phá thể giới để tìm ra con đường dẫn tới khu vực này!
 GAMEPLAY_MysteryLakeDescriptionUnlocked,"Ideal for new players. A balance between wilderness and man-made shelters, resources, and wildlife.
 
-Connects to Coastal Highway and Pleasant Valley.","REMOVED: You've found your way to Mystery Lake, a blend of wilderness and man-made shelters, including the Carter Hydro Dam.",
+Connects to Coastal Highway and Pleasant Valley.","REMOVED: You've found your way to Mystery Lake, a blend of wilderness and man-made shelters, including the Carter Hydro Dam.","Lý tưởng cho người mới. Cân bằng giữa hoang dã, trú ẩn và tài nguyên.
+
+Kết nối với Quốc lộ ven biển và Thung Lũng Thú Vị."
 GAMEPLAY_CoastalHighwayDescriptionUnlocked,"For intermediate players. A weather-battered coastline rich in shelters and resources. Watch out for wildlife. 
 
-Connects to Mystery Lake, Pleasant Valley, and Desolation Point.","REMOVED: You've found your way to the Coastal Highway, which winds its way around a weather-battered coastline, with small clusters of habitation to be found along the way.",
+Connects to Mystery Lake, Pleasant Valley, and Desolation Point.","REMOVED: You've found your way to the Coastal Highway, which winds its way around a weather-battered coastline, with small clusters of habitation to be found along the way.","Cho người chơi trung bình. Một bờ biển với nhiều chỗ trú ẩn và tài nguyên. Coi chừng động vật hoang dã.
+
+Nối với Hồ Bí Ẩn, Thung Lũng Thú Vị và Điểm Hoang Tàn"
 GAMEPLAY_PleasantValleyDescriptionUnlocked,"For advanced players. A challenging, vast mountain wilderness region with a few key shelters, originally settled by hardy homesteaders.
 
-Connects to Mystery Lake, Coastal Highway, and Timberwolf Mountain.","REMOVED: You've found your way to Pleasant Valley, a vast rural-mountain wilderness originally settled by hardy homesteaders.",
+Connects to Mystery Lake, Coastal Highway, and Timberwolf Mountain.","REMOVED: You've found your way to Pleasant Valley, a vast rural-mountain wilderness originally settled by hardy homesteaders.","Cho người chơi nâng cao. Thử thách với vùng núi hoang dã rộng lớn có một vài điểm trú ẩn.
+
+Nối với Hồ Bí Ẩn, Quốc Lộ Ven Biển và Núi Timberwolf."
 GAMEPLAY_RandomRegionDescription,You will start in a random region!,,Sẽ bắt đầu ở khu vực ngẫu nhiên!
 GAMEPLAY_FutureRegion,Coming soon!,,Sắp ra mắt!
 GAMEPLAY_FutureRegionDescription,More regions are on their way.,,Nhiều khu vực hơn đang chờ bạn.
 GAMEPLAY_FuelSupply,Fuel Supply,,Nhiên liệu tiếp tế
-GAMEPLAY_Sheltered,Sheltered,,
-GAMEPLAY_rug,Rug,,
+GAMEPLAY_Sheltered,Sheltered,,Che chở
+GAMEPLAY_rug,Rug,,Thảm
 GAMEPLAY_shelf,Shelf,wooden shelf,Kệ tủ
 GAMEPLAY_pillow,Pillow,,Gối
 GAMEPLAY_branch,Branch,"branch, fallen from a tree, small - can be broken by hand",Cành cây
@@ -1883,17 +1906,17 @@ GAMEPLAY_Throw,Throw,action,Ném
 GAMEPLAY_Extinguish,Extinguish,action,Dập tắt
 GAMEPLAY_FireWeapon,Fire,as in fire a weapon,Bắn
 GAMEPLAY_Aim,Aim,action,Ngắm
-GAMEPLAY_DrawBow,Draw,as in draw a bowstring,
+GAMEPLAY_DrawBow,Draw,as in draw a bowstring,Kéo
 GAMEPLAY_RelaxBow,Relax,as in relax a bowstring without firing an arrow,Thư giãn
 GAMEPLAY_Brandish,Brandish,to swing weapon wildly,Múa
 GAMEPLAY_Curtain,Curtain,single curtain/drape window covering,Rèm cửa
 GAMEPLAY_Towel,Towel,hand towel,Khăn lau
 GAMEPLAY_Duration,Duration,,Thời gian
 GAMEPLAY_CardboardBox,Cardboard Box,,Thùng các tông
-GAMEPLAY_Crib,Crib,babies crib,
+GAMEPLAY_Crib,Crib,babies crib,Cũi
 GAMEPLAY_Controller_Sprint,Sprint (RB),,Chạy (RB)
 GAMEPLAY_Sprint,Sprint,,Chạy
-GAMEPLAY_Fight,Fight Back!,,
+GAMEPLAY_Fight,Fight Back!,,Chống cự!
 GAMEPLAY_BarkTinder,Birch Bark,piece of bark from a birch tree,Vỏ cây bạch dương
 GAMEPLAY_BarkTinderDescription,"Birch tree bark. Lightweight and flamable, this bark can be used as tinder",,"Vỏ cây bạch dương nhẹ và dễ cháy, có thể sử dụng như vật bắt lửa."
 GAMEPLAY_Stick,Stick,"small stick, fallen from a tree",Que củi
@@ -1930,7 +1953,7 @@ GAMEPLAY_ContractedHypothermiaHUD,Contracted hypothermia,,Đã giảm hạ thân
 GAMEPLAY_ContractedHypothermiaLog,Contracted hypothermia.,,Đã giảm hạ thân nhiệt
 GAMEPLAY_HypothermiaHasPassed,Hypothermia has passed,,Lành bệnh hạ thân nhiệt
 GAMEPLAY_ColdWeather,Cold Weather,,Thời tiêt lạnh
-GAMEPLAY_FellThroughIce,Fell Through Ice,,
+GAMEPLAY_FellThroughIce,Fell Through Ice,,Lọt hố băng
 GAMEPLAY_Hypothermia,Hypothermia,,Hạ thân nhiệt
 GAMEPLAY_OldBedroll,Old Bedroll,"old, worn out bedroll (not one the player would ever use)",Túi ngủ cũ
 GAMEPLAY_RequiresToolToBreakDown,Requires {tool-name} to break down,,Yêu cầu {tool-name} để đập vỡ
@@ -1944,8 +1967,8 @@ GAMEPLAY_UserChanged,The signed in user has changed.,,Đăng nhập người dù
 GAMEPLAY_ActiveControllerDisconnected,The active controller is no longer connected. Please press a button to continue playing.,,Controller không còn được kết nối. Nhấn phím để tiếp tục chơi.
 GAMEPLAY_RandomRegion,Random,,Ngẫu nhiên
 SCENENAME_DamRiver,Winding River,River area leading to carter Dam,Sông uốn lượn
-GAMEPLAY_HypothermiaDescription,Your body temperature was too low for too long. You will weaken until you stay above freezing for 24 hours.,,
-GAMEPLAY_HypothermiaTreatment,Remain above freezing for {time-val} hours,,
+GAMEPLAY_HypothermiaDescription,Your body temperature was too low for too long. You will weaken until you stay above freezing for 24 hours.,,Nhiệt độ cơ thể xuống quá thấp trong thời gian dài. Sẽ yếu dần cho đến khi không bị rét trên 24h.
+GAMEPLAY_HypothermiaTreatment,Remain above freezing for {time-val} hours,,Còn lại {time-val} giờ để hết đóng băng
 GAMEPLAY_Hacksaw,Hacksaw,,Cưa cầm tay
 GAMEPLAY_HacksawDescription,Heavy-duty saw made to cut through metal.,,Cưa dùng để cắt đồ kim loại
 GAMEPLAY_MetalShelf,Metal Shelf,,Kệ kim loại
@@ -2025,12 +2048,14 @@ GAMEPLAY_Forging,Forging,displayed as title on Forging UI,Đang rèn
 GAMEPLAY_WhalingStationRegionDescriptionLocked,Explore the world to find the route that leads to this region!,,Khám phá thế giới để tìm thấy đường dẫn tới khu vực này!
 GAMEPLAY_WhalingStationRegionDescriptionUnlocked,"For intermediate players. Several key shelters, plenty of hostile wildlife, and harsh weather conditions to be found around these remnants of a once-thriving whaling industry.
 
-Connects to Coastal Highway.","REMOVED: You've found your way to Desolation Point, a stretch of highway featuring the remnants of a once-thriving whaling industry.",
+Connects to Coastal Highway.","REMOVED: You've found your way to Desolation Point, a stretch of highway featuring the remnants of a once-thriving whaling industry.","Cho người chơi trung bình. Một số nơi tạm trú lớn, nhiều động vật hoang dã, thời tiết khắc nghiệt. Và xung quanh là tàn tích của ngành công nghiệp đánh bắt cá voi một thời thịnh vượng.
+
+Nối với Quốc Lộ Ven Biển."
 GAMEPLAY_HwayTransBurnedForest,Crumbling Highway,Crumbling Highway Transition - the name of this burned forest,Quốc Lộ Sạt Lở
-GAMEPLAY_HwayTransHouses,Abandoned Harris Home,"Burned Highway Transition - small group of burned, abandoned houses",
+GAMEPLAY_HwayTransHouses,Abandoned Harris Home,"Burned Highway Transition - small group of burned, abandoned houses",Nhà Harris bỏ hoang
 GAMEPLAY_HwayTransRoadCollapse,Road Collapse,Burned Highway Transition - section of road has collapsed/subsided/landslipped away,Đường sạt lở
 GAMEPLAY_HwayTransMine,Abandoned Mine No.3 (west),Burned Highway Transition - abandoned mine entrance,Mỏ Than Bỏ Hoang Số 3 (Tây)
-GAMEPLAY_HwayTransArch,The Arch,Burned Highway Transition - A rock formed arch over sea ice,
+GAMEPLAY_HwayTransArch,The Arch,Burned Highway Transition - A rock formed arch over sea ice,Vòm
 GAMEPLAY_MetalPan,Metal Pan,Metal pot/pan used for cooking food,Chảo kim loại
 GAMEPLAY_HeatOutput,Heat Output,heat output from a stove/furnace,Nhiệt tỏa ra
 SCENENAME_HighwayTransitionZone,Crumbling Highway,A stretch of highway that is falling apart,Quốc Lộ Sạt Lở
@@ -2046,7 +2071,7 @@ GAMEPLAY_WhaleTransitionMine,Abandoned Mine No.3 (East Access),This mine links u
 GAMEPLAY_WhaleShortcutMine1,Abandoned Mine No.5 (West Access),mine entrance in Whaling region,Mỏ Than Bỏ Hoang Số 5 (lối vào phía Tây)
 GAMEPLAY_WhaleShortcutMine2,Abandoned Mine No.5 (East Access),mine entrance in Whaling region,Mỏ Than Bỏ Hoang Số 5 (lối vào phía Đông)
 GAMEPLAY_PlaceItem,Place Item (LT),For Controller Layout,Đặp đồ vật (LT)
-GAMEPLAY_WornOutPopup,Worn Out,,
+GAMEPLAY_WornOutPopup,Worn Out,,Đã hư hỏng
 GAMEPLAY_RuinedPopup,Ruined,,Đã hỏng
 GAMEPLAY_Close,Close,verb,Đóng
 GAMEPLAY_SSAO,SSAO,Abbreviation for Screen Space Ambient Occlusion,Đổ bóng SSAO
@@ -2054,7 +2079,7 @@ GAMEPLAY_SSAOOn,On,,Bật
 GAMEPLAY_SSAOOff,Off,,Tắt
 GAMEPLAY_OverwriteYour,Overwrite Your,as in overwrite your save game,Tổng quan của bạn
 GAMEPLAY_BearMeatCooked,Bear Meat (Cooked),,Thịt gấu (Đã nấu)
-GAMEPLAY_HeatedUp,Heated Up,heating up food,
+GAMEPLAY_HeatedUp,Heated Up,heating up food,Hâm nóng
 GAMEPLAY_OpenCanItem,Open {item-name},"as in ""open canned beans""",Mở {item-name}
 GAMEPLAY_SignedInAs,Signed in as,,Đã đăng nhập với
 GAMEPLAY_SwitchUser,Switch User,,Chuyển người dùng
@@ -2095,7 +2120,7 @@ GAMEPLAY_NoRope,No Mountaineering Rope In Inventory,,Không có dây thừng leo
 GAMEPLAY_Ledge,Ledge,,Mỏm đá
 GAMEPLAY_FlareGun,Distress Pistol,,Súng pháo sáng
 GAMEPLAY_FlareGunDescription,A device used to launch an emergency beacon into the air. Fires Flare Shells.,,Một thiết bị dùng để gửi tín hiệu cầu cứu lên trời. Sử dụng đạn pháo sáng.
-GAMEPLAY_SurvivalRecord,Survival Record,,
+GAMEPLAY_SurvivalRecord,Survival Record,,Hồ sơ sinh tồn
 GAMEPLAY_DaysSurvived,Days Survived,,Ngày đã sống
 GAMEPLAY_CurrentSandbox,Current Sandbox,,Hiện tại
 GAMEPLAY_AllTime,All Time,,Tất cả
@@ -2112,7 +2137,7 @@ GAMEPLAY_SummaryView,Summary View,,Xem tóm tắt
 GAMEPLAY_FlareGunContainer,Emergency Kit,,Bộ khẩn cấp
 GAMEPLAY_SurvivalRecordSummaryAlive,"Playing <EXPERIENCEMODE>, you started in <STARTZONE>. You have survived for <SURVIVALTIME>.",<EXPERIENCEMODE> will be replaced in code. please do not translate the text between the < >,"Đang chơi <EXPERIENCEMODE>, bắt đầu tại <STARTZONE>. Bạn đã sống sót <SURVIVALTIME>."
 GAMEPLAY_SurvivalRecordSummaryDead,"Playing <EXPERIENCEMODE>, you started in <STARTZONE>, and died in <ENDZONE>. You survived for <SURVIVALTIME>.",<EXPERIENCEMODE> will be replaced in code. please do not translate the text between the < >,"Đang chơi <EXPERIENCEMODE>, bắt đầu tại <STARTZONE> và đã chết tại <ENDZONE>. Bạn đã sống sót <SURVIVALTIME>."
-GAMEPLAY_CycleBest,Cycle Best,,
+GAMEPLAY_CycleBest,Cycle Best,,Chu kỳ tốt nhất
 GAMEPLAY_Date,Date,,Ngày
 GAMEPLAY_XPMode,Exp. Mode,Exp. = experience,Chế độ
 GAMEPLAY_Survival,Survived,[this should appear in the Sandbox save menu],Đã sống
@@ -2141,11 +2166,11 @@ GAMEPLAY_CleanSkillIncreased,Cleaning skill increased to {%-value},,Kĩ năng la
 GAMEPLAY_SharpenSkillIncreased,Sharpening skill increased to {%-value},,Kĩ năng mài tăng tới {%-value}
 GAMEPLAY_CleanNotRequired,Item doesn't require Cleaning.,,Đồ này không cần lau chùi.
 GAMEPLAY_SharpenNotRequired,Item doesn't need to be Sharpened.,,Đồ này không cần mài.
-GAMEPLAY_RifleJammedReloadReq,Rifle Jammed. Reload to Clear.,,
+GAMEPLAY_RifleJammedReloadReq,Rifle Jammed. Reload to Clear.,,Súng trường bị kẹt. Hãy thay lại đạn.
 GAMEPLAY_Delete,Delete,deleting a save slot,Xóa
 GAMEPLAY_EmptySlot,Empty Slot,empty save slot,Ô trống
 GAMEPLAY_DeleteSaveSlotMessage,Are you sure you want to delete the selected game? All progress from that game session will be lost.,,Bạn có chắc muốn xóa Game đã chọn? Tất cả quá trình đã chơi sẽ bị mất.
-GAMEPLAY_ClimbersJournal,Climber's Journal Page,,Giấy nhật ký của Climber
+GAMEPLAY_ClimbersJournal,Climber's Journal Page,,Giấy nhật ký của người leo núi
 GAMEPLAY_ClimbersJournalDescription,A page from a climber's journal found near the base of Timberwolf Mountain.,,Một tờ giấy nhật ký của người leo núi tìm thấy ở gần trung tâm Núi Timberwolf.
 GAMEPLAY_ClimbersJournalNarrativeText,"Sept 5th
 Arrived at the base of Timberwolf Mountain. Looks like there are some nice cracks, just like Clive said. Going to set up a top rope and do some bouldering until the others show up. Hopefully soon.
@@ -2154,7 +2179,14 @@ Sept 6th
 Wondering if my friends got lost as they still haven't arrived. Woke up in the night to a deafening noise, and fire on the mountain. Went to check it out but the weather got nasty and I couldn't find my way.
 
 Sept 7th
-Clear day. I went out again. Found some metal cargo crates. They look like they might have come from a plane. There's still smoke coming from the summit. I'm heading out to see if I can make it to the peak and learn more about what's going on.",,
+Clear day. I went out again. Found some metal cargo crates. They look like they might have come from a plane. There's still smoke coming from the summit. I'm heading out to see if I can make it to the peak and learn more about what's going on.",,"Sept 5th
+Arrived at the base of Timberwolf Mountain. Looks like there are some nice cracks, just like Clive said. Going to set up a top rope and do some bouldering until the others show up. Hopefully soon.
+
+Sept 6th
+Wondering if my friends got lost as they still haven't arrived. Woke up in the night to a deafening noise, and fire on the mountain. Went to check it out but the weather got nasty and I couldn't find my way.
+
+Sept 7th
+Clear day. I went out again. Found some metal cargo crates. They look like they might have come from a plane. There's still smoke coming from the summit. I'm heading out to see if I can make it to the peak and learn more about what's going on."
 GAMEPLAY_Meters,Metres,,Mét
 GAMEPLAY_FEET,Feet,,Feet
 GAMEPLAY_Notes,Notes,,Ghi chút
@@ -2243,18 +2275,20 @@ SCENENAME_CrashMountainRegion,Timberwolf Mountain,,Núi Timberwolf
 GAMEPLAY_CrashMountainRegionLocked,Explore the world to find the route that leads to this region!,,Khám phá thế giới để tìm ra con đường đến khu vực này!
 GAMEPLAY_CrashMountainRegionUnlocked,"For advanced players. An isolated alpine region with very few shelters or resources. A true test of wilderness survival skills.
 
-Connects to Pleasant Valley.",,
+Connects to Pleasant Valley.",,"Dành cho người chơi có kinh nghiệm.Một khu vực núi bị cô lập với rất ít chỗ tạm trú và tài nguyên. Một bài kiểm tra thực sự về kĩ năng sinh tồn nơi hoang dã.
+
+Kết nối với Thung Lũng Thú Vị."
 GAMEPLAY_CrashLake,Crystal Lake,large mountain lake in front of the lodge,Hồ pha lê
-GAMEPLAY_CrashChasm,Echo Ravine,"deep, rocky chasm",
+GAMEPLAY_CrashChasm,Echo Ravine,"deep, rocky chasm",Hẻm núi vọng tiếng
 GAMEPLAY_CrashMountaineersLodge,Mountaineer's Hut,"small, rustic, stone cabin",Nhà của dân miền núi
 GAMEPLAY_CrashCave_big,Cave,"large, natural, rock covered area, cave like",Hang động
 GAMEPLAY_CrashCave_forest,Forest Cave,cave in forest area,Hang lâm nghiệp
 GAMEPLAY_CrashCave_chasm,Chasm Cave,cave in the base of the chasm,Hang rãnh nứt
 GAMEPLAY_CrashCave_waterfall,Waterfall Cave,cave near waterfall,Hang thác nước
-GAMEPLAY_CrashTopWaterfall,Eric's Falls,Waterfall found part way up crash mountain,
-GAMEPLAY_CrashMountainSummit,Summit,Area at top of mountain (where crashed plane tail sits),
+GAMEPLAY_CrashTopWaterfall,Eric's Falls,Waterfall found part way up crash mountain,Thác của Eric
+GAMEPLAY_CrashMountainSummit,Summit,Area at top of mountain (where crashed plane tail sits),Đỉnh
 GAMEPLAY_CrashMountainShelf,Secluded Shelf,"Shelf area partway up mountain (secluded spot, has cave tunnel access)",Kệ tủ tách biệt
-GAMEPLAY_CrashDeerClearing,Deer Clearing,"Clearing at base of mountain, with deer",
+GAMEPLAY_CrashDeerClearing,Deer Clearing,"Clearing at base of mountain, with deer",Rừng thưa nhiều nai
 GAMEPLAY_CrashDebris_wheel,Landing Gear,Crash debris -  a piece of landing gear,Càng hạ cánh
 GAMEPLAY_CrashDebris_engine,Engine,Crash debris -  an engine,Động cơ máy bay
 GAMEPLAY_CrashDebris_wing,Wing,Crash debris -  a section of wing,Cánh máy bay
@@ -2267,16 +2301,16 @@ GAMEPLAY_DeployRopeAction,Deploying Rope...,,Cột dây thừng...
 GAMEPLAY_TakeRopeAction,Taking Rope...,,Lấy dây thừng...
 GAMEPLAY_Cargo,Cargo Container,Used when searchinng a door on a cargo crate,Thùng Container
 GAMEPLAY_ResetAllTimeStatsConfirmation,Are you sure you would like to reset your stats? All previous stats will be deleted.,,Bạn có chắc muốn khôi phục lại các số liệu? Tất cả số liệu trước đó sẽ bị xóa.
-SCENENAME_EmptyPrepperCache,Prepper's Abandoned Cache,,
-GAMEPLAY_RuralCrashCorner,Point of Disagreement,location in Pleasant Valley where a few cars/truck have crashed,
+SCENENAME_EmptyPrepperCache,Prepper's Abandoned Cache,,Kho chứa bỏ hoang của Prepper
+GAMEPLAY_RuralCrashCorner,Point of Disagreement,location in Pleasant Valley where a few cars/truck have crashed,Điểm bất đồng
 GAMEPLAY_Write,Write,,Viết
 GAMEPLAY_Done,Done,as in finished,Xong
 GAMEPLAY_Survived,Survived,,Đã sống
 GAMEPLAY_LogItemFound,Item Found,,Đồ tìm thấy
-SCENENAME_TransitionMLtoCH,Raven Falls Railway Line,,
-SCENENAME_TransitionMLtoPV,Carter Hydro Dam & Environs,,Đập thủy điện Carter & Vùng xung quanh
+SCENENAME_TransitionMLtoCH,Raven Falls Railway Line,,Đường sắt thác con quạ
+SCENENAME_TransitionMLtoPV,Carter Hydro Dam & Environs,,Đập thủy điện Carter & Vùng lân cận
 SCENENAME_TransitionCHtoPV,Cinder Hills Coal Mine,,Mỏ than đồi Cinder
-SCENENAME_TransitionCHtoDP,Old Island Connector,,
+SCENENAME_TransitionCHtoDP,Old Island Connector,,Đường nói Đảo Cũ
 GAMEPLAY_CreateSandbox,Create,,Tạo
 GAMEPLAY_Journal,Journal,,Nhật ký
 GAMEPLAY_Journals,Journals,,Nhật ký
@@ -2307,11 +2341,11 @@ STEAM_CONTROLLER_Action_Reload,Reload,,Thay đạn
 STEAM_CONTROLLER_Action_Equip,Equip,,Trang bị
 STEAM_CONTROLLER_Action_PickUp,Pick Up,,Nhặt lên
 STEAM_CONTROLLER_Action_PutBack,Put Back,,Để lại chỗ cũ
-STEAM_CONTROLLER_Action_Holster,Holster,,
+STEAM_CONTROLLER_Action_Holster,Holster,,Bao súng
 STEAM_CONTROLLER_Action_ActionsPanel,Actions Panel,,Bảng Hành động
 STEAM_CONTROLLER_Action_Backpack,Backpack,,Ba lô
 STEAM_CONTROLLER_Action_PauseMenu,Pause Menu,,Menu tạm dừng
-STEAM_CONTROLLER_Action_Escape,Escape,,
+STEAM_CONTROLLER_Action_Escape,Escape,,Trốn thoát
 STEAM_CONTROLLER_Action_Continue,Continue,,Tiếp tục
 STEAM_CONTROLLER_Action_StartFire,Start Fire,,Nhóm lửa
 STEAM_CONTROLLER_Action_LightSource,Light Source,,Nguồn ánh sáng
@@ -2319,21 +2353,21 @@ STEAM_CONTROLLER_Action_Decoy,Decoy,,Mồi nhử
 STEAM_CONTROLLER_Action_Weapon,Weapon,,Vũ khí
 STEAM_CONTROLLER_Action_Menu_ToolSelect,Menu:Tool Select,,Menu: Lựa chọn công cụ
 STEAM_CONTROLLER_Action_Inventory_Drop,Inventory:Drop,,Kho đồ: Vứt
-STEAM_CONTROLLER_Action_Inventory_FilterLeft,Inventory:FilterLeft,,
-STEAM_CONTROLLER_Action_Inventory_FilterRight,Inventory:FilterRight,,
+STEAM_CONTROLLER_Action_Inventory_FilterLeft,Inventory:FilterLeft,,Kho đồ: Lọc trái
+STEAM_CONTROLLER_Action_Inventory_FilterRight,Inventory:FilterRight,,Kho đồ: Lọc phải
 STEAM_CONTROLLER_Action_Inventory_Equip,Inventory:Equip,,Kho đồ: Trang bị
 STEAM_CONTROLLER_Action_Inventory_Examine,Inventory:Examine,,Kho đồ: Xem xét
 STEAM_CONTROLLER_Action_Inventory_Sort,Inventory:Toggle Sort,,Kho đồ: Chuyển chế độ sắp xếp
 STEAM_CONTROLLER_Action_Container_SelectLeftTable,Container:Select Left Table,,Hộp chứa: Chọn bên trái
 STEAM_CONTROLLER_Action_Container_SelectRightTable,Container:Select Right Table,,Hộp chứa: Chọn bên phải
 STEAM_CONTROLLER_Action_Options_Confirm,Options:Confirm,,Tùy chọn: Xác nhận
-STEAM_CONTROLLER_Action_Struggle_Tap,Struggle Tap,,
-STEAM_CONTROLLER_Action_FeedFire_TakeTorch,FeedFire:Take Torch,,
+STEAM_CONTROLLER_Action_Struggle_Tap,Struggle Tap,,Tap chiến đấu
+STEAM_CONTROLLER_Action_FeedFire_TakeTorch,FeedFire:Take Torch,,FeedFire:Lấy đuốc
 STEAM_CONTROLLER_Action_Fire,Fire,,Bắn
 STEAM_CONTROLLER_Action_AltFire,Aim,,Ngắm
 STEAM_CONTROLLER_Action_SafeCrackLeft,Safe:Left,,Két sắt: Trái
 STEAM_CONTROLLER_Action_SafeCrackRight,Safe:Right,,Két sắt: Phải
-STEAM_CONTROLLER_Action_ResetAllTimeStats,Stats:Reset Best,,
+STEAM_CONTROLLER_Action_ResetAllTimeStats,Stats:Reset Best,,Thống kê: Đặt lại tốt nhất
 STEAM_CONTROLLER_Action_Menu_Secondary_MoveLeft,MenuNavigation:Secondary Move Left,,Menu điều hướng:Di chuyển sang trái thứ hai
 STEAM_CONTROLLER_Action_Menu_Secondary_MoveRight,MenuNavigation:Secondary Move Right,,Menu điều hướng:Di chuyển sang phải thứ hai
 STEAM_CONTROLLER_Action_Menu_Secondary_MoveUp,MenuNavigation:Secondary Move Up,,Menu điều hướng:Di chuyển tiến lên thứ hai
@@ -2499,12 +2533,12 @@ GAMEPLAY_CandyBar_Mouldy,Mouldy Chocolate Bar,,Thanh Sôcôla mốc
 GAMEPLAY_CandyBar_Ruined,Ruined Chocolate Bar,,Thanh Sôcôla hỏng
 GAMEPLAY_PorkandBeans_New,New Pork and Beans,,Thịt lợn và đậu mới
 GAMEPLAY_PorkandBeans_Dusty,Dusty Pork and Beans,,Thịt lợn và đậu khô
-GAMEPLAY_PorkandBeans_Banged Up,Banged Up Pork and Beans,,
+GAMEPLAY_PorkandBeans_Banged Up,Banged Up Pork and Beans,,Thịt lợn và đậu đập nát
 GAMEPLAY_PorkandBeans_Rusty,Rusty Pork and Beans,,Thịt lợn và đậu ôi
 GAMEPLAY_PorkandBeans_Ruined,Ruined Pork and Beans,,Thịt lợn và đậu hỏng
 GAMEPLAY_CondensedMilk_New,New Condensed Milk,,Sữa đặc mới
 GAMEPLAY_CondensedMilk_Dusty,Dusty Condensed Milk,,Sữa đặc khô
-GAMEPLAY_CondensedMilk_Banged Up,Banged Up Condensed Milk,,
+GAMEPLAY_CondensedMilk_Banged Up,Banged Up Condensed Milk,,Sữa đặc đập nát
 GAMEPLAY_CondensedMilk_Rusty,Rusty Condensed Milk,,Sữa đặc ôi
 GAMEPLAY_CondensedMilk_Ruined,Ruined Condensed Milk,,Sữa đặc hỏng
 GAMEPLAY_BearMeatCooked_Fresh,Fresh Bear Meat (Cooked),,Thịt gấu mới (Đã nấu)
@@ -2533,7 +2567,7 @@ GAMEPLAY_SaltyCrackers_Mouldy,Mouldy Salty Crackers,,Bánh mặn mốc
 GAMEPLAY_SaltyCrackers_Ruined,Ruined Salty Crackers,,Bánh mặn hỏng
 GAMEPLAY_DogFood_New,New Dog Food,,Thức ăn chó mới
 GAMEPLAY_DogFood_Dusty,Dusty Dog Food,,Thức ăn chó khô
-GAMEPLAY_DogFood_Banged Up,Banged Up Dog Food,,
+GAMEPLAY_DogFood_Banged Up,Banged Up Dog Food,,Thức ăn chó đập nát
 GAMEPLAY_DogFood_Rusty,Rusty Dog Food,,Thức ăn chó ôi
 GAMEPLAY_DogFood_Ruined,Ruined Dog Food,,Thức ăn chó hỏng
 GAMEPLAY_GranolaBar_Fresh,New Granola Bar,,Bánh Granola mới
@@ -2546,7 +2580,7 @@ GAMEPLAY_PeanutButter_Mouldy,Mouldy Peanut Butter,,Bơ đậu phộng mốc
 GAMEPLAY_PeanutButter_Ruined,Ruined Peanut Butter,,Bơ đậu phộng hỏng
 GAMEPLAY_PinnaclePeaches_New,New Pinnacle Peaches,,Túi đào mới
 GAMEPLAY_PinnaclePeaches_Dusty,Dusty Pinnacle Peaches,,Túi đào khô
-GAMEPLAY_PinnaclePeaches_Banged Up,Banged Up Pinnacle Peaches,,
+GAMEPLAY_PinnaclePeaches_Banged Up,Banged Up Pinnacle Peaches,,Túi đào đập nát
 GAMEPLAY_PinnaclePeaches_Rusty,Rusty Pinnacle Peaches,,Túi đào ôi
 GAMEPLAY_PinnaclePeaches_Ruined,Ruined Pinnacle Peaches,,Túi đào hỏng
 GAMEPLAY_BearMeatRaw_Fresh,Fresh Bear Meat,,Thịt gấu tươi
@@ -2587,10 +2621,10 @@ GAMEPLAY_CookedSmallMouthBass_Mouldy,Rancid Smallmouth Bass (Cooked),,Cá vượ
 GAMEPLAY_CookedSmallMouthBass_Ruined,Ruined Smallmouth Bass (Cooked),,Cá vược hỏng (Đã nấu)
 GAMEPLAY_TomatoSoupCan_New,New Tomato Soup,,Súp cà chua mới
 GAMEPLAY_TomatoSoupCan_Dusty,Dusty Tomato Soup,,Súp cà chua khô
-GAMEPLAY_TomatoSoupCan_Banged Up,Banged Up Tomato Soup,,
+GAMEPLAY_TomatoSoupCan_Banged Up,Banged Up Tomato Soup,,Súp cà chua đập nát
 GAMEPLAY_TomatoSoupCan_Rusty,Rusty Tomato Soup,,Súp cà chua ôi
 GAMEPLAY_TomatoSoupCan_Ruined,Ruined Tomato Soup,,Súp cà chua hỏng
-GAMEPLAY_LakeOverlook,Lake Overlook,viewpoint overlooking Mystery Lake,
+GAMEPLAY_LakeOverlook,Lake Overlook,viewpoint overlooking Mystery Lake,Điểm quan sát hồ
 GAMEPLAY_RescueChallengeFailHeader,Rescue: Failed,,Giải cứu: Thất bại
 GAMEPLAY_RescueChallengeFailDesc,You didn't make it to the Lighthouse in time...,,Bạn không đến được Ngọn Hải Đăng trong thời gian này...
 GAMEPLAY_RescueChallengeDeathDesc,You died,,Bạn đã chết
@@ -2609,12 +2643,12 @@ GAMEPLAY_ChallengeRescue,Hopeless Rescue,,Giải cứu vô vọng
 GAMEPLAY_HuntedChallengeFailHeader,The Hunted: Failed,,Đi Săn: Thất bại
 GAMEPLAY_HuntedChallengeFailDesc,You died,,Bạn đã chết
 GAMEPLAY_HuntedChallengeSuccessHeader,The Hunted: Success,,Đi Săn: Thành công
-GAMEPLAY_HuntedChallengeSuccessDesc,"You made it to Trapper's! The Hunted becomes the Hunter, in Part Two.",,
+GAMEPLAY_HuntedChallengeSuccessDesc,"You made it to Trapper's! The Hunted becomes the Hunter, in Part Two.",,Đến được nhà gỗ của người đặt bẫy. Bạn trở thành thợ săn trong phần hai.
 GAMEPLAY_HuntedChallengeSurvivalTimeHeader,Completion Time,,Thời gian hoàn thành
 GAMEPLAY_HuntedChallengeStartHeader,"The Hunted, Part One",,"Đi săn, phần 1"
-GAMEPLAY_HuntedChallengeStartDesc,The old bear is after you. Nothing can kill him but the Trapper's old Bearkiller Rifle. Get to Trapper's Cabin before the Bear gets you.,,
-GAMEPLAY_HuntedChallengeInstructions,Avoid the Bear. Get to Trapper's Cabin in Mystery Lake.,,
-GAMEPLAY_HuntedChallengeLoadText,"The Old Bear is hunting you. Get to Trapper's Cabin in Mystery Lake, before it gets you.",,
+GAMEPLAY_HuntedChallengeStartDesc,The old bear is after you. Nothing can kill him but the Trapper's old Bearkiller Rifle. Get to Trapper's Cabin before the Bear gets you.,,Gấu già ở phía sau bạn. Không gì cản được nó ngoại trừ khẩu súng trường ở Nhà gỗ của người đặt bẫy. Đến đó trước khi con gấu tóm được bạn.
+GAMEPLAY_HuntedChallengeInstructions,Avoid the Bear. Get to Trapper's Cabin in Mystery Lake.,,Tránh xa con gấu. Đến Nhà gỗ của người đặt bẫy ở Hồ Bí Ẩn
+GAMEPLAY_HuntedChallengeLoadText,"The Old Bear is hunting you. Get to Trapper's Cabin in Mystery Lake, before it gets you.",,Gấu già đang truy lùng. Đến Nhà gỗ của người đặt bẫy ở Hồ Bí Ẩn trước khi nó tóm được bạn.
 GAMEPLAY_ChallengeHunted,"The Hunted, Part One",,"Đi săn, phần 1"
 GAMEPLAY_Sit,Sit,,Ngồi
 GAMEPLAY_Stand,Stand,,Đứng
@@ -2628,7 +2662,7 @@ GAMEPLAY_SelectJournalToOverwrite,Select a Journal to overwrite,,Lựa chọn nh
 GAMEPLAY_RadialLightSources,Light Sources,,Nguồn ánh sáng
 GAMEPLAY_RadialWeapons,Weapons,,Vũ khí
 GAMEPLAY_RadialBedroll,Bedroll,,Túi ngủ
-GAMEPLAY_RadialFire,Fire,,
+GAMEPLAY_RadialFire,Fire,,Lửa
 GAMEPLAY_RadialJournal,Journal,,Nhật ký
 GAMEPLAY_RadialInventory,Backpack,,Ba lô
 GAMEPLAY_RadialDecoy,Drop Decoy,,Thả mồi nhử
@@ -2682,7 +2716,7 @@ GAMEPLAY_Challenge,Challenge,"noun, as in a challenge mode",Thử thách
 GAMEPLAY_IntestinalParasites,Intestinal Parasites,,Ký sinh trùng đường ruột
 GAMEPLAY_IntestinalParasitesRisk,Risk of Intestinal Parasites,,Nguy cơ ký sinh trùng đường ruốt
 GAMEPLAY_IntestinalParasitesCause,Infected Meat,,Thịt nhiễm trùng
-GAMEPLAY_IntestinalParasitesDesc,You ate infected game meat and now have Intestinal Parasites. Recovery requires multiple daily treatments! You will continue to weaken until treatment has run its full course. [Maximum 1 dose/day.],,
+GAMEPLAY_IntestinalParasitesDesc,You ate infected game meat and now have Intestinal Parasites. Recovery requires multiple daily treatments! You will continue to weaken until treatment has run its full course. [Maximum 1 dose/day.],,Ăn phải thịt nhiễm độc và bây giờ bị kí sinh trùng đường ruột. Hồi phục nó đòi hỏi phương pháp chữa trị hàng ngày! Cơ thể sẽ tiếp tục suy yếu cho đến khi nó được chữa trị. [Tối đa 1 liều/ngày.]
 GAMEPLAY_IntestinalParasitesRiskTreatment,Avoid eating more meat from carnivores.,,Tránh ăn nhiều thịt từ động vật
 GAMEPLAY_IntestinalParasitesRiskDesc,Game meat from carnivorous animals may be infected with parasites.,,Ăn thịt từ động vật có thể bị nhiễm kí sinh trùng.
 GAMEPLAY_Doses,Doses,,Liều thuốc
@@ -2697,14 +2731,14 @@ GAMEPLAY_RadialEmergencyStim,Emergency Stim,,Tiêm khẩn cấp
 GAMEPLAY_Accept,Accept,,Chấp nhận
 GAMEPLAY_NewChallenge,New Challenge,,Thử thách mới
 GAMEPLAY_NoPassTimeIndoorsCabinFever,Cannot pass time indoors due to Cabin Fever,,Không thể để thời gian trôi qua do bệnh Căn nhà ám ảnh
-GAMEPLAY_RavineBase,Ravine Basin,the bottom area of the ravine,
-GAMEPLAY_RavineTrestle,Raven Falls Trestle,the big ravine trestle rail bridge,
+GAMEPLAY_RavineBase,Ravine Basin,the bottom area of the ravine,Lưu vực khe suối
+GAMEPLAY_RavineTrestle,Raven Falls Trestle,the big ravine trestle rail bridge,Giàn giáo thác Raven
 GAMEPLAY_Controller_RadialMenu,Radial Menu (LB),,Vòng Menu (LB)
 GAMEPLAY_NoRestOnThinIce,Cannot rest while on weak ice.,,Không thể nghỉ ngơi trên băng mỏng.
 GAMEPLAY_NoPassTimeOnThinIce,Cannot pass time while on weak ice.,,Không thể bỏ qua thời gian trên băng mỏng.
 GAMEPLAY_ViewNotes,View Notes,,Xem ghi chú
 GAMEPLAY_TooWindyToAddFuel,It's too windy to sustain this fire.,,Quá gió để duy trì ngọn lửa này
-GAMEPLAY_ResetBindingsNotification,We have updated the default controls and therefore your modified key-bindings have been reset to the new defaults.,,
+GAMEPLAY_ResetBindingsNotification,We have updated the default controls and therefore your modified key-bindings have been reset to the new defaults.,,Đã cập nhật lại phím mặc định.
 STEAM_CONTROLLER_Gameplay,Gameplay,,Gameplay
 STEAM_CONTROLLER_Menu,Menu,,Menu
 SUBTITLE_FFireFailUrg0106,Ok that didn't work.,,Ok không được rồi.
@@ -2820,10 +2854,10 @@ GAMEPLAY_BadgesProgress,{num-collected} of {num-total} Collected,,{num-collected
 GAMEPLAY_AdjustBrightnessDesc,"Adjust the slider until The Long Dark logo is barely visible, and the wolf disappears completely.",,Điều chỉnh thanh trượt để vừa đủ nhìn thấy logo The Long Dark và con sói biến mất hoàn toàn.
 GAMEPLAY_Lighter,Lighter,screen brightness increase,Sáng hơn
 GAMEPLAY_Darker,Darker,screen brightness decrease,Tối hơn
-GAMEPLAY_Build,Build,,
-GAMEPLAY_Dismantle,Dismantle,,
+GAMEPLAY_Build,Build,,Xây dựng
+GAMEPLAY_Dismantle,Dismantle,,Tháo rời
 GAMEPLAY_HarvestedMaterials,Harvested Materials,,Thu hoạch vật liệu
-GAMEPLAY_BuildingProgress,Building...,Building a snow shelter,
+GAMEPLAY_BuildingProgress,Building...,Building a snow shelter,Đang xây dựng...
 GAMEPLAY_SkillBeginner,Beginner,,Mới biết
 GAMEPLAY_SkillNovice,Novice,,Tìm tòi
 GAMEPLAY_SkillSkilled,Skilled,,Lành nghề
@@ -2877,7 +2911,7 @@ GAMEPLAY_WhiteoutListRifleAmmo,Rifle Cartridges,,Đạn súng trường
 GAMEPLAY_WhiteoutListHatchet,Hatchet,,Rìu nhỏ
 GAMEPLAY_WhiteoutListLantern,Lantern,,Lồng đèn
 GAMEPLAY_Missions,Missions,,Nhiệm vụ
-GAMEPLAY_WhiteoutChallengeObjective1,"Stockpile the food, water, and supplies listed in your journal. Store them in the Coastal Highway Quonset Garage (the starting location).",,
+GAMEPLAY_WhiteoutChallengeObjective1,"Stockpile the food, water, and supplies listed in your journal. Store them in the Coastal Highway Quonset Garage (the starting location).",,"Dự trữ lương thực, nước và vật tư được liệt kê ở Nhật Ký của bạn. Cất chúng trong Gara Quonset Garage ở Quốc lộ ven biển (vị trí bắt đầu)"
 GAMEPLAY_NomadChallengeObjective1,Spend 3 days at each location listed in your journal.,,Sống 3 ngày tại mỗi địa điểm khác nhau trong nhật ký
 GAMEPLAY_FireStartingBaseSkill,Fire Starting Base Chance,"changed from: ""Fire Starting Base Skill""",Cơ hội có chút lửa
 GAMEPLAY_Firestarting,Fire Starting,,Nhóm lửa
@@ -2915,18 +2949,24 @@ GAMEPLAY_CarcassHarvestingBenefitsTier3,"{meat-bonus} reduction in Meat Harvesti
 Can harvest {frozen-threshold} Frozen carcasses by hand
 {hidegut-bonus} reduction in Hide or Gut harvesting times","25% reduction in Meat Harvesting times
 Can harvest 50% Frozen carcasses
-10% reduction in Hide or Gut harvesting times",
+10% reduction in Hide or Gut harvesting times","Giảm {meat-bonus} trong mỗi lần thu hoạch thịt
+Có thể thu hoạch {frozen-threshold} Xác đông lạnh bằng tay
+Giảm {hidegut-bonus} trong mỗi lần thu hoạch Da hoặc Ruột"
 GAMEPLAY_CarcassHarvestingBenefitsTier4,"{meat-bonus} reduction in Meat Harvesting times
 Can harvest {frozen-threshold} Frozen carcasses by hand
-{hidegut-bonus} reduction in Hide or Gut harvesting times",,
+{hidegut-bonus} reduction in Hide or Gut harvesting times",,"Giảm {meat-bonus} trong mỗi lần thu hoạch thịt
+Có thể thu hoạch {frozen-threshold} Xác đông lạnh bằng tay
+Giảm {hidegut-bonus} trong mỗi lần thu hoạch Da hoặc Ruột"
 GAMEPLAY_CarcassHarvestingBenefitsTier5,"{meat-bonus} reduction in Harvesting times
 Can harvest {frozen-threshold} Frozen carcasses by hand
-{hidegut-bonus} reduction in Hide or Gut harvesting times",,
-GAMEPLAY_CarcassHarvestingDescriptionTier1,"You have a lay-person's understanding of harvesting a dead animal. Meaning, you are clumsy and unskilled. Don't cut yourself!",,
-GAMEPLAY_CarcassHarvestingDescriptionTier2,"You're a bit more comfortable with how to handle a carcass. You can tell which parts provide the best meat, but you still destroy a lot of it while harvesting.",,
-GAMEPLAY_CarcassHarvestingDescriptionTier3,You know your way around a carcass. You're quick and can get the best parts without wrecking them. You don't waste time or meat.,,
-GAMEPLAY_CarcassHarvestingDescriptionTier4,You're an artist when it comes to cutting up a carcass. You can get all the best parts and you know what to do with them. You waste very little.,,
-GAMEPLAY_CarcassHarvestingDescriptionTier5,"Your skills are legendary. Carcasses pray you'll be the one to harvest them. You don't waste a movement, and can practically strip a carcass with your eyes closed.",,
+{hidegut-bonus} reduction in Hide or Gut harvesting times",,"Giảm {meat-bonus} trong mỗi lần thu hoạch thịt
+Có thể thu hoạch {frozen-threshold} Xác đông lạnh bằng tay
+Giảm {hidegut-bonus} trong mỗi lần thu hoạch Da hoặc Ruột"
+GAMEPLAY_CarcassHarvestingDescriptionTier1,"You have a lay-person's understanding of harvesting a dead animal. Meaning, you are clumsy and unskilled. Don't cut yourself!",,Biết sơ qua cách thu hoạch một xác động vật chết. Đừng để tự cắt trúng tay mình!
+GAMEPLAY_CarcassHarvestingDescriptionTier2,"You're a bit more comfortable with how to handle a carcass. You can tell which parts provide the best meat, but you still destroy a lot of it while harvesting.",,Biết chút chút về cách xử lý một miếng thịt. Biết chọn phần nào là tốt nhất nhưng vẫn còn hao phí khi thu hoạch.
+GAMEPLAY_CarcassHarvestingDescriptionTier3,You know your way around a carcass. You're quick and can get the best parts without wrecking them. You don't waste time or meat.,,Lấy được những phần tốt nhất mà không phá hoại chúng. Không lãng phí thời gian hoặc chút thịt nào
+GAMEPLAY_CarcassHarvestingDescriptionTier4,You're an artist when it comes to cutting up a carcass. You can get all the best parts and you know what to do with them. You waste very little.,,Là nghệ nhân xẻo thịt. Biết cái nào tốt và xử lý chúng như thế nào. 
+GAMEPLAY_CarcassHarvestingDescriptionTier5,"Your skills are legendary. Carcasses pray you'll be the one to harvest them. You don't waste a movement, and can practically strip a carcass with your eyes closed.",,Kĩ năng trở thành huyền thoại. Không còn gì để nói thêm về nó.
 GAMEPLAY_Cooking,Cooking,,Nấu nướng
 GAMEPLAY_CookingBenefitsTier1,Base Cooking Skill,,Kĩ năng nấu nướng cơ bản
 GAMEPLAY_CookingBenefitsTier2,{cal-bonus} Calories from any cooked food item,,{cal-bonus} Calo từ bất kỳ món ăn được nấu
@@ -3015,7 +3055,7 @@ GAMEPLAY_RifleFirearmDescriptionTier4,You've developed a strong feeling for the 
 GAMEPLAY_RifleFirearmDescriptionTier5,"When you aim down those sights the world melts away and there's only you, the Rifle, the bullet, and your target. The trigger is death. The trigger is life. ",,"Khi ngắm thì sẽ hòa mình vào một thế giới mà ở đó chỉ có bạn, súng trường, đạn và mục tiêu. Bóp cò là chết. Bóp cò là sống."
 GAMEPLAY_SkillIncreased,{name} skill increased to {%-value},,kĩ năng {name} đã tăng tới {%-value}
 GAMEPLAY_RequiresLightToCraft,Requires Light To Craft,,Yêu cầu ánh sáng để chế đồ
-GAMEPLAY_TestBuild,TEST BUILD,Shown on HUD to incdicate build is a test version,
+GAMEPLAY_TestBuild,TEST BUILD,Shown on HUD to incdicate build is a test version,KIỂM TRA XÂY DỰNG
 GAMEPLAY_Feats,Feats,synonym for accomplishments,Chiến công
 GAMEPLAY_HuntedBadgeName,"The Hunted, Part One",,"Đi săn, phần một"
 GAMEPLAY_HuntedBadgeDescLocked,"You have not completed The Hunted, Part One.",,"Bạn chưa hoàn thành ""Đi săn, phần một"""
@@ -3033,14 +3073,14 @@ GAMEPLAY_FeatsDescription,Badges awarded for Feats that can be completed across 
 GAMEPLAY_ChallengesDescription,Badges awarded for completing Challenges.,,Nhận thưởng danh hiệu cho việc hoàn thành thử thách.
 GAMEPLAY_BookFireStarting,Survive the Outdoors!,,Sống sót ngoài trời!
 GAMEPLAY_BookFireStartingDescription,Handbook with information on wilderness survival. Researching this will improve your Skill.,,Sổ tay với thông tin giúp tồn tại nơi hoang dã. Nghiên cứu nó để cải thiện kĩ năng của bạn.
-GAMEPLAY_BookFireCarcassHarvesting,"Field Dressing Your Kill, Vol. I",,
-GAMEPLAY_BookCarcassHarvestingDescription,Detailed information about the best way to butcher animal carcasses. Researching this will improve your Skill.,,
+GAMEPLAY_BookFireCarcassHarvesting,"Field Dressing Your Kill, Vol. I",,"Field Dressing Your Kill, Tập. I"
+GAMEPLAY_BookCarcassHarvestingDescription,Detailed information about the best way to butcher animal carcasses. Researching this will improve your Skill.,,Các thông tin chi tiết hữu ích về cách làm thịt một con thú. Nghiên cứu để cải thiện kĩ năng của bạn.
 GAMEPLAY_BookIceFishing,The Frozen Angler,,Người câu cá trên băng
 GAMEPLAY_BookIceFishingDescription,An instructional manual on ice fishing. Researching this will improve your Skill.,,Một sổ tay hướng dẫn về việc câu cá trong băng. Nghiên cứu nó để cải thiện kĩ năng này.
 GAMEPLAY_BookCooking,Wilderness Kitchen,,Nấu nướng hoang dã
 GAMEPLAY_BookCookingDescription,Tips and tricks on how to prepare food in the wilderness. Researching this will improve your Skill.,,Mẹo và thủ thuật giúp chuẩn bị thức ăn nơi hoang dã. Nghiên cứu nó để cải thiện kĩ năng của bạn.
-GAMEPLAY_BookRifleFirearm,Frontier Shooting Guide,,
-GAMEPLAY_BookRifleFirearmDescription,"Reprint of a late 19th-century handbook about shooting, meant for green pioneers. Researching this will improve your Skill.",,
+GAMEPLAY_BookRifleFirearm,Frontier Shooting Guide,,Giới hạn bắn súng
+GAMEPLAY_BookRifleFirearmDescription,"Reprint of a late 19th-century handbook about shooting, meant for green pioneers. Researching this will improve your Skill.",,Một cuốn sách tái bản vào cuối thế kỷ 19 nói về kĩ năng bắn súng. Nghiên cứu để cải thiện kĩ năng của bạn.
 GAMEPLAY_BookRifleFirearmAdvanced,Advanced Guns Guns Guns!,,Súng súng súng nâng cao!
 GAMEPLAY_BookRifleFirearmAdvancedDescription,Packed full of advice and technical details about how to be a better shooter. Researching this will improve your Skill.,,Một quyển sách với đầy đủ lời khuyên và thông số kĩ thuật giúp bắn súng tốt hơn. Nghiên cứu nó để cải thiện kĩ năng của bạn.
 GAMEPLAY_Read,Read,"As in ""Read a book""",Đọc
@@ -3073,10 +3113,10 @@ GAMEPLAY_Feat_FreeRunner,Free Runner,,Chạy đua tự do
 GAMEPLAY_Feat_FreeRunnerDescription,You've sprinted {distance}. Sprinting now burns {bonus} fewer Calories.,,Đã chạy {distance}. Giờ chạy tiêu thụ ít Calo hơn {bonus} fewer Calories.
 GAMEPLAY_Feat_SnowWalker,Snow Walker,,Lội tuyết
 GAMEPLAY_Feat_SnowWalkerDescription,You've travelled {distance} in the game. Your Stamina bar recharges {bonus} faster.,,Đã đi {distance} trong trò chơi. Sức bền hồi nhanh hơn {bonus} .
-GAMEPLAY_FatigueReducedDesc,You're feeling more wakeful and energized. Temporarily reduces your Fatigue.,,
-GAMEPLAY_ImprovedRestDesc,This will help you Rest more deeply. You'll recover more Condition per hour of Rest.,,
-GAMEPLAY_WarmingUpDesc,"That warm food goes straight to your core, heating you from within. Protects against Cold while active.",,
-GAMEPLAY_SnowShelterMustBeBuiltInSnow,Snow Shelter must be built in snow,,
+GAMEPLAY_FatigueReducedDesc,You're feeling more wakeful and energized. Temporarily reduces your Fatigue.,,Cảm thấy tràn đầy sinh lực. Điểm mệt mỏi tạm thời sẽ giảm xuống.
+GAMEPLAY_ImprovedRestDesc,This will help you Rest more deeply. You'll recover more Condition per hour of Rest.,,Giúp cải thiện nghỉ ngơi. Phục hồi thể trạng nhiều cho mỗi giờ nghỉ ngơi.
+GAMEPLAY_WarmingUpDesc,"That warm food goes straight to your core, heating you from within. Protects against Cold while active.",,Hâm nóng thức ăn giúp làm ấm cơ thể từ bên trong. Giúp bảo vệ giá lạnh tốt hơn khi hoạt động.
+GAMEPLAY_SnowShelterMustBeBuiltInSnow,Snow Shelter must be built in snow,,Lều tuyết phải được xây trong tuyết
 GAMEPLAY_CurrentChallenge,Current Challenge,as in the challenge mode that is currently being played,Thử thách hiện tại
 GAMEPLAY_Almanac,Almanac,as in a farmer's almanac,Dự báo
 GAMEPLAY_AlmanacStormCat1,Cat.1,storm category,Cấp 1
@@ -3085,8 +3125,8 @@ GAMEPLAY_AlmanacStormCat3,Cat.3,storm category,Cấp 3
 GAMEPLAY_AlmanacStormCat4,Cat.4,storm category,Cấp 4
 GAMEPLAY_AlmanacStormCat5,Cat.5,storm category,Cấp 5
 GAMEPLAY_AlmanacStormChance,{chance-val}% Chance,{chance-val} will be replaced by a number,{chance-val}% cơ hội
-GAMEPLAY_BadgeReceived,Badge Received,,
-GAMEPLAY_HeatingProgress,Heating...,,
+GAMEPLAY_BadgeReceived,Badge Received,,Nhận danh hiệu
+GAMEPLAY_HeatingProgress,Heating...,,Đang đun nóng...
 GAMEPLAY_RequiresLightToRepair,You can't Repair while in the dark.,,Không thể sửa trong bóng tối.
 GAMEPLAY_MetalPot,Metal Pot,Metal pot used for cooking food,Nồi kim loại
 GAMEPLAY_Optional,Optional,,Không bắt buộc
