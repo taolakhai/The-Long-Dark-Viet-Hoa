@@ -1,11 +1,13 @@
 # The Long Dark Việt Hóa
 
 ## Hướng dẫn cài đặt:
-- Link download game tại [đây](https://www.fshare.vn/file/Y4C6K2B39QOY).
+- Link download game tại [đây](https://www.fshare.vn/folder/IUGGLEW5PV16).
 
 - Link download phần Việt Hóa tại [đây](https://github.com/xkvnn/The-Long-Dark-Viet-Hoa/archive/master.zip).
 
-- Giải nén bản Việt Hóa vừa tải về, chọn ĐÚNG phiên bản rồi Copy thư mục `'tld_data'` vào thư mục chính của Game. Nếu sử dụng sai phiên bản thì sẽ làm lỗi Game.
+- Giải nén bản Việt Hóa vừa tải về, chọn ĐÚNG phiên bản rồi COPY và GHI ĐÈ thư mục `'tld_data'` vào thư mục chính của Game.
+
+- Phiên bản việt hóa phải giống với phiên bản Game, nếu sai sẽ làm cho Game không chạy được.
 
 - Vào Game chọn `'OPTIONS'` -> `'DISPLAY'`. Đổi `'LANGUAGE'` sang `'Tiếng Việt'` và `'SUBTITLES'` sang `'Closed Captioning'` hoặc `'On'`.
 
@@ -16,6 +18,3 @@ Ai tặng Gift Steam luôn thì đa tạ biết mấy.
 
 ## Liên hệ:
 Facebook: https://fb.com/xkvnn
-
-Email: xkvnn@yahoo.com
-
