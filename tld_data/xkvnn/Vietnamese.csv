@@ -2188,7 +2188,7 @@ Wondering if my friends got lost as they still haven't arrived. Woke up in the n
 Sept 7th
 Clear day. I went out again. Found some metal cargo crates. They look like they might have come from a plane. There's still smoke coming from the summit. I'm heading out to see if I can make it to the peak and learn more about what's going on."
 GAMEPLAY_Meters,Metres,,Mét
-GAMEPLAY_FEET,Feet,,Feet
+GAMEPLAY_FEET,Feet,,Bàn chân
 GAMEPLAY_Notes,Notes,,Ghi chút
 GAMEPLAY_NoDataThisDay,No data for this day.,Refers to saved Stats data.,Không có dữ liệu của ngày hôm nay. 
 GAMEPLAY_LogExploredMessage,I have explored {%-value}% of the world so far,,Mình đã khám phá {%-value}% thế giới này.
@@ -3576,7 +3576,7 @@ GAMEPLAY_MarshCabins,Bunkhouses,"Marsh location, smalll group of ruined cabins",
 GAMEPLAY_KeybindClothing,Clothing,button to open clothing screen,Quần áo
 GAMEPLAY_KeybindJournal,Journal,button to open journal screen,Nhật ký
 GAMEPLAY_KeybindFirstAid,First Aid,button to open first aid screen,Sơ cứu
-GAMEPLAY_LeaveMarsh,Leaving Forlorn Muskeg,,Rời Vũng lầy tuyệt vọng
+GAMEPLAY_LeaveMarsh,Leave Forlorn Muskeg,,Rời Vũng lầy tuyệt vọng
 SCENENAME_Marsh,Forlorn Muskeg,Marsh Region Name,Vũng lầy tuyệt vọng
 GAMEPLAY_DeadBush,Scrub Brush,"a small dead bush, no leaves on it",Bụi cây khô
 GAMEPLAY_ForgeRequiredTemperature,Temperature Required,A heading for the temperature required before the forge can be used to craft items,Yêu cầu nhiệt độ
@@ -3586,3 +3586,4 @@ GAMEPLAY_MarshRegionUnlocked,For advanced players. A frigid open marshland bisec
 GAMEPLAY_RailTunnel,Rail Tunnel,,Hầm đường sắt
 GAMEPLAY_Stat_DaysInMarshRegion,Days In Forlorn Muskeg,,Ngày ở vũng lầy tuyệt vọng
 GAMEPLAY_Stat_Frostbite,Frostbite,,Tê cóng
+GAMEPLAY_BedWarmthBonus,Bed Warmth Bonus,,Thưởng giường ấm

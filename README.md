@@ -1,7 +1,7 @@
 # The Long Dark Việt Hóa
 
 
-## Link này là việt hóa cho phiên bản Game: Alpha v.388
+## Link này là việt hóa cho phiên bản Game: Alpha v.392
 Các phiên bản khác xem tại [đây](https://github.com/xkvnn/The-Long-Dark-Viet-Hoa/branches/all). Và mới nhất là [master](https://github.com/xkvnn/The-Long-Dark-Viet-Hoa).
 
 
