@@ -1,22 +1,27 @@
 # The Long Dark Việt Hóa
 
+
+## Link này là việt hóa cho phiên bản Game: Alpha v.386
+Các phiên bản khác xem tại [đây](https://github.com/xkvnn/The-Long-Dark-Viet-Hoa/branches/all). Và mới nhất là [master](https://github.com/xkvnn/The-Long-Dark-Viet-Hoa).
+
+
 ## Hướng dẫn cài đặt:
-1. Link download game tại [đây](https://www.fshare.vn/folder/IUGGLEW5PV16).
+1. Download game tại [đây](https://www.fshare.vn/folder/IUGGLEW5PV16).
 
-2. Link download phần Việt Hóa tại [đây](https://github.com/xkvnn/The-Long-Dark-Viet-Hoa/archive/master.zip).
+2. Download phần Việt Hóa: `Clone or download -> Download ZIP`.
 
-3. Giải nén bản Việt Hóa vừa tải về, chọn ĐÚNG phiên bản rồi COPY ĐÈ thư mục `'tld_data'` và `'The Long Dark Việt Hóa.exe'` vào thư mục chính của Game.
+3. Giải nén file Việt Hóa vừa tải về. Rồi vô trong chỗ giải nén tìm thư mục `tld_data`, copy đè nó vào thư mục chính của Game (thư mục có file `tld.exe`).
 
-4. Phiên bản việt hóa phải giống với phiên bản Game, nếu sai sẽ làm cho Game không chạy được.
 
-5. Vào Game chọn `'OPTIONS'` -> `'DISPLAY'`. Đổi `'LANGUAGE'` sang `'Tiếng Việt'` và `'SUBTITLES'` sang `'Closed Captioning'` hoặc `'On'`.
+## Lưu ý:
+- Phải sử dụng phiên bản việt hóa giống với phiên bản Game. Khác nhau thì Game sẽ bị lỗi.
 
-6. Chơi bằng file `'The Long Dark Việt Hóa.exe'`.
+- Tốt nhất là tải Game từ link phía trên ấy. 
+
 
 ## Donate:
-Nhận Donate cho đến khi đủ tiền mua Game [Steam](http://store.steampowered.com/app/305620/) để giúp đưa bản Việt Hóa lên [Workshop](http://steamcommunity.com/app/305620/workshop/).
+Nhận Donate trực tiếp qua Facebook.
 
-Ai tặng Gift Steam luôn thì đa tạ biết mấy.
 
 ## Liên hệ:
 Facebook: https://fb.com/xkvnn
